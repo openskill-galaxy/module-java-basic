@@ -1,0 +1,4106 @@
+[
+  {
+    "id": "java-lesson-001",
+    "courseId": "java-course-01",
+    "order": 1,
+    "title": "Java概述",
+    "slug": "Java概述",
+    "summary": "Java概述",
+    "content": "# Java概述\n\nJava概述内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-001"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-002",
+    "courseId": "java-course-01",
+    "order": 2,
+    "title": "JDK安装配置",
+    "slug": "JDK安装配置",
+    "summary": "JDK安装配置",
+    "content": "# JDK安装配置\n\nJDK安装配置内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-002"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-003",
+    "courseId": "java-course-01",
+    "order": 3,
+    "title": "HelloWorld",
+    "slug": "HelloWorld",
+    "summary": "HelloWorld",
+    "content": "# HelloWorld\n\nHelloWorld内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-003"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-004",
+    "courseId": "java-course-01",
+    "order": 4,
+    "title": "编译与运行",
+    "slug": "编译与运行",
+    "summary": "编译与运行",
+    "content": "# 编译与运行\n\n编译与运行内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-004"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-005",
+    "courseId": "java-course-01",
+    "order": 5,
+    "title": "IDE使用",
+    "slug": "IDE使用",
+    "summary": "IDE使用",
+    "content": "# IDE使用\n\nIDE使用内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-005"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-006",
+    "courseId": "java-course-02",
+    "order": 1,
+    "title": "注释与标识符",
+    "slug": "注释与标识符",
+    "summary": "注释与标识符",
+    "content": "# 注释与标识符\n\n注释与标识符内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-006"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-007",
+    "courseId": "java-course-02",
+    "order": 2,
+    "title": "关键字",
+    "slug": "关键字",
+    "summary": "关键字",
+    "content": "# 关键字\n\n关键字内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-007"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-008",
+    "courseId": "java-course-02",
+    "order": 3,
+    "title": "输出语句",
+    "slug": "输出语句",
+    "summary": "输出语句",
+    "content": "# 输出语句\n\n输出语句内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-008"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-009",
+    "courseId": "java-course-02",
+    "order": 4,
+    "title": "基本语法规则",
+    "slug": "基本语法规则",
+    "summary": "基本语法规则",
+    "content": "# 基本语法规则\n\n基本语法规则内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-009"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-010",
+    "courseId": "java-course-03",
+    "order": 1,
+    "title": "整数类型",
+    "slug": "整数类型",
+    "summary": "整数类型",
+    "content": "# 整数类型\n\n整数类型内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-010"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-011",
+    "courseId": "java-course-03",
+    "order": 2,
+    "title": "浮点类型",
+    "slug": "浮点类型",
+    "summary": "浮点类型",
+    "content": "# 浮点类型\n\n浮点类型内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-011"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-012",
+    "courseId": "java-course-03",
+    "order": 3,
+    "title": "字符与布尔",
+    "slug": "字符与布尔",
+    "summary": "字符与布尔",
+    "content": "# 字符与布尔\n\n字符与布尔内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-012"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-013",
+    "courseId": "java-course-03",
+    "order": 4,
+    "title": "变量与常量",
+    "slug": "变量与常量",
+    "summary": "变量与常量",
+    "content": "# 变量与常量\n\n变量与常量内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-013"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-014",
+    "courseId": "java-course-03",
+    "order": 5,
+    "title": "类型转换",
+    "slug": "类型转换",
+    "summary": "类型转换",
+    "content": "# 类型转换\n\n类型转换内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-014"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-015",
+    "courseId": "java-course-03",
+    "order": 6,
+    "title": "算术运算符",
+    "slug": "算术运算符",
+    "summary": "算术运算符",
+    "content": "# 算术运算符\n\n算术运算符内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-015"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-016",
+    "courseId": "java-course-03",
+    "order": 7,
+    "title": "关系逻辑运算符",
+    "slug": "关系逻辑运算符",
+    "summary": "关系逻辑运算符",
+    "content": "# 关系逻辑运算符\n\n关系逻辑运算符内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-016"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-017",
+    "courseId": "java-course-03",
+    "order": 8,
+    "title": "位运算符",
+    "slug": "位运算符",
+    "summary": "位运算符",
+    "content": "# 位运算符\n\n位运算符内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-017"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-018",
+    "courseId": "java-course-03",
+    "order": 9,
+    "title": "赋值与三元",
+    "slug": "赋值与三元",
+    "summary": "赋值与三元",
+    "content": "# 赋值与三元\n\n赋值与三元内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-018"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-019",
+    "courseId": "java-course-04",
+    "order": 1,
+    "title": "if语句",
+    "slug": "if语句",
+    "summary": "if语句",
+    "content": "# if语句\n\nif语句内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-019"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000007",
+      "java-q-000008",
+      "java-q-000040",
+      "java-q-000060",
+      "java-q-000063"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-020",
+    "courseId": "java-course-04",
+    "order": 2,
+    "title": "switch语句",
+    "slug": "switch语句",
+    "summary": "switch语句",
+    "content": "# switch语句\n\nswitch语句内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-020"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000007",
+      "java-q-000008",
+      "java-q-000040",
+      "java-q-000060",
+      "java-q-000063"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-021",
+    "courseId": "java-course-04",
+    "order": 3,
+    "title": "while循环",
+    "slug": "while循环",
+    "summary": "while循环",
+    "content": "# while循环\n\nwhile循环内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-021"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000007",
+      "java-q-000008",
+      "java-q-000040",
+      "java-q-000060",
+      "java-q-000063"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-022",
+    "courseId": "java-course-04",
+    "order": 4,
+    "title": "do-while",
+    "slug": "do-while",
+    "summary": "do-while",
+    "content": "# do-while\n\ndo-while内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-022"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000007",
+      "java-q-000008",
+      "java-q-000040",
+      "java-q-000060",
+      "java-q-000063"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-023",
+    "courseId": "java-course-04",
+    "order": 5,
+    "title": "for循环",
+    "slug": "for循环",
+    "summary": "for循环",
+    "content": "# for循环\n\nfor循环内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-023"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000007",
+      "java-q-000008",
+      "java-q-000040",
+      "java-q-000060",
+      "java-q-000063"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-024",
+    "courseId": "java-course-04",
+    "order": 6,
+    "title": "嵌套循环",
+    "slug": "嵌套循环",
+    "summary": "嵌套循环",
+    "content": "# 嵌套循环\n\n嵌套循环内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-024"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000007",
+      "java-q-000008",
+      "java-q-000040",
+      "java-q-000060",
+      "java-q-000063"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-025",
+    "courseId": "java-course-04",
+    "order": 7,
+    "title": "break与continue",
+    "slug": "break与continue",
+    "summary": "break与continue",
+    "content": "# break与continue\n\nbreak与continue内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-025"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000007",
+      "java-q-000008",
+      "java-q-000040",
+      "java-q-000060",
+      "java-q-000063"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-026",
+    "courseId": "java-course-05",
+    "order": 1,
+    "title": "一维数组",
+    "slug": "一维数组",
+    "summary": "一维数组",
+    "content": "# 一维数组\n\n一维数组内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-026",
+      "java-kp-027"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000009",
+      "java-q-000010",
+      "java-q-000037",
+      "java-q-000043",
+      "java-q-000049"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-027",
+    "courseId": "java-course-05",
+    "order": 2,
+    "title": "二维数组",
+    "slug": "二维数组",
+    "summary": "二维数组",
+    "content": "# 二维数组\n\n二维数组内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-028"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000009",
+      "java-q-000010",
+      "java-q-000037",
+      "java-q-000043",
+      "java-q-000049"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-028",
+    "courseId": "java-course-05",
+    "order": 3,
+    "title": "数组拷贝",
+    "slug": "数组拷贝",
+    "summary": "数组拷贝",
+    "content": "# 数组拷贝\n\n数组拷贝内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-029"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000009",
+      "java-q-000010",
+      "java-q-000037",
+      "java-q-000043",
+      "java-q-000049"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-029",
+    "courseId": "java-course-05",
+    "order": 4,
+    "title": "String类",
+    "slug": "String类",
+    "summary": "String类",
+    "content": "# String类\n\nString类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-030",
+      "java-kp-031"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000009",
+      "java-q-000010",
+      "java-q-000037",
+      "java-q-000043",
+      "java-q-000049"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-030",
+    "courseId": "java-course-05",
+    "order": 5,
+    "title": "StringBuilder",
+    "slug": "StringBuilder",
+    "summary": "StringBuilder",
+    "content": "# StringBuilder\n\nStringBuilder内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-032"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000009",
+      "java-q-000010",
+      "java-q-000037",
+      "java-q-000043",
+      "java-q-000049"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-031",
+    "courseId": "java-course-06",
+    "order": 1,
+    "title": "方法定义",
+    "slug": "方法定义",
+    "summary": "方法定义",
+    "content": "# 方法定义\n\n方法定义内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-033"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-032",
+    "courseId": "java-course-06",
+    "order": 2,
+    "title": "方法重载",
+    "slug": "方法重载",
+    "summary": "方法重载",
+    "content": "# 方法重载\n\n方法重载内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-034"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-033",
+    "courseId": "java-course-06",
+    "order": 3,
+    "title": "参数传递",
+    "slug": "参数传递",
+    "summary": "参数传递",
+    "content": "# 参数传递\n\n参数传递内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-035"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-034",
+    "courseId": "java-course-06",
+    "order": 4,
+    "title": "return",
+    "slug": "return",
+    "summary": "return",
+    "content": "# return\n\nreturn内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-036"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-035",
+    "courseId": "java-course-06",
+    "order": 5,
+    "title": "递归",
+    "slug": "递归",
+    "summary": "递归",
+    "content": "# 递归\n\n递归内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-037",
+      "java-kp-038"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-036",
+    "courseId": "java-course-06",
+    "order": 6,
+    "title": "可变参数",
+    "slug": "可变参数",
+    "summary": "可变参数",
+    "content": "# 可变参数\n\n可变参数内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-039"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-037",
+    "courseId": "java-course-07",
+    "order": 1,
+    "title": "类与对象",
+    "slug": "类与对象",
+    "summary": "类与对象",
+    "content": "# 类与对象\n\n类与对象内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-040",
+      "java-kp-041"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000013",
+      "java-q-000014",
+      "java-q-000029",
+      "java-q-000036",
+      "java-q-000042"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-038",
+    "courseId": "java-course-07",
+    "order": 2,
+    "title": "构造方法",
+    "slug": "构造方法",
+    "summary": "构造方法",
+    "content": "# 构造方法\n\n构造方法内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-042"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000013",
+      "java-q-000014",
+      "java-q-000029",
+      "java-q-000036",
+      "java-q-000042"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-039",
+    "courseId": "java-course-07",
+    "order": 3,
+    "title": "this关键字",
+    "slug": "this关键字",
+    "summary": "this关键字",
+    "content": "# this关键字\n\nthis关键字内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-043"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000013",
+      "java-q-000014",
+      "java-q-000029",
+      "java-q-000036",
+      "java-q-000042"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-040",
+    "courseId": "java-course-07",
+    "order": 4,
+    "title": "static",
+    "slug": "static",
+    "summary": "static",
+    "content": "# static\n\nstatic内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-044",
+      "java-kp-045"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000013",
+      "java-q-000014",
+      "java-q-000029",
+      "java-q-000036",
+      "java-q-000042"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-041",
+    "courseId": "java-course-07",
+    "order": 5,
+    "title": "封装与getter/setter",
+    "slug": "封装与getter/setter",
+    "summary": "封装与getter/setter",
+    "content": "# 封装与getter/setter\n\n封装与getter/setter内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-046"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000013",
+      "java-q-000014",
+      "java-q-000029",
+      "java-q-000036",
+      "java-q-000042"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-042",
+    "courseId": "java-course-07",
+    "order": 6,
+    "title": "package与import",
+    "slug": "package与import",
+    "summary": "package与import",
+    "content": "# package与import\n\npackage与import内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-047"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000013",
+      "java-q-000014",
+      "java-q-000029",
+      "java-q-000036",
+      "java-q-000042"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-043",
+    "courseId": "java-course-08",
+    "order": 1,
+    "title": "继承extends",
+    "slug": "继承extends",
+    "summary": "继承extends",
+    "content": "# 继承extends\n\n继承extends内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-048",
+      "java-kp-049"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-044",
+    "courseId": "java-course-08",
+    "order": 2,
+    "title": "super关键字",
+    "slug": "super关键字",
+    "summary": "super关键字",
+    "content": "# super关键字\n\nsuper关键字内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-050"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-045",
+    "courseId": "java-course-08",
+    "order": 3,
+    "title": "方法重写",
+    "slug": "方法重写",
+    "summary": "方法重写",
+    "content": "# 方法重写\n\n方法重写内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-051"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-046",
+    "courseId": "java-course-08",
+    "order": 4,
+    "title": "多态",
+    "slug": "多态",
+    "summary": "多态",
+    "content": "# 多态\n\n多态内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-052",
+      "java-kp-053"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-047",
+    "courseId": "java-course-08",
+    "order": 5,
+    "title": "final",
+    "slug": "final",
+    "summary": "final",
+    "content": "# final\n\nfinal内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-054"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-048",
+    "courseId": "java-course-08",
+    "order": 6,
+    "title": "抽象类",
+    "slug": "抽象类",
+    "summary": "抽象类",
+    "content": "# 抽象类\n\n抽象类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-055"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-049",
+    "courseId": "java-course-08",
+    "order": 7,
+    "title": "Object类",
+    "slug": "Object类",
+    "summary": "Object类",
+    "content": "# Object类\n\nObject类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-056"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-050",
+    "courseId": "java-course-09",
+    "order": 1,
+    "title": "接口定义",
+    "slug": "接口定义",
+    "summary": "接口定义",
+    "content": "# 接口定义\n\n接口定义内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-057"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-051",
+    "courseId": "java-course-09",
+    "order": 2,
+    "title": "接口实现",
+    "slug": "接口实现",
+    "summary": "接口实现",
+    "content": "# 接口实现\n\n接口实现内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-058"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-052",
+    "courseId": "java-course-09",
+    "order": 3,
+    "title": "接口默认方法",
+    "slug": "接口默认方法",
+    "summary": "接口默认方法",
+    "content": "# 接口默认方法\n\n接口默认方法内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-059"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-053",
+    "courseId": "java-course-09",
+    "order": 4,
+    "title": "内部类",
+    "slug": "内部类",
+    "summary": "内部类",
+    "content": "# 内部类\n\n内部类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-060"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-054",
+    "courseId": "java-course-09",
+    "order": 5,
+    "title": "包装类",
+    "slug": "包装类",
+    "summary": "包装类",
+    "content": "# 包装类\n\n包装类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-061",
+      "java-kp-062"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-055",
+    "courseId": "java-course-09",
+    "order": 6,
+    "title": "日期类",
+    "slug": "日期类",
+    "summary": "日期类",
+    "content": "# 日期类\n\n日期类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-063"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-056",
+    "courseId": "java-course-10",
+    "order": 1,
+    "title": "异常层次",
+    "slug": "异常层次",
+    "summary": "异常层次",
+    "content": "# 异常层次\n\n异常层次内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-064",
+      "java-kp-065"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000019",
+      "java-q-000020",
+      "java-q-000033",
+      "java-q-000044",
+      "java-q-000055"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-057",
+    "courseId": "java-course-10",
+    "order": 2,
+    "title": "try-catch",
+    "slug": "try-catch",
+    "summary": "try-catch",
+    "content": "# try-catch\n\ntry-catch内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-066"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000019",
+      "java-q-000020",
+      "java-q-000033",
+      "java-q-000044",
+      "java-q-000055"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-058",
+    "courseId": "java-course-10",
+    "order": 3,
+    "title": "finally",
+    "slug": "finally",
+    "summary": "finally",
+    "content": "# finally\n\nfinally内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-067"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000019",
+      "java-q-000020",
+      "java-q-000033",
+      "java-q-000044",
+      "java-q-000055"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-059",
+    "courseId": "java-course-10",
+    "order": 4,
+    "title": "throws与throw",
+    "slug": "throws与throw",
+    "summary": "throws与throw",
+    "content": "# throws与throw\n\nthrows与throw内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "java-kp-068"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000019",
+      "java-q-000020",
+      "java-q-000033",
+      "java-q-000044",
+      "java-q-000055"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-060",
+    "courseId": "java-course-10",
+    "order": 5,
+    "title": "自定义异常",
+    "slug": "自定义异常",
+    "summary": "自定义异常",
+    "content": "# 自定义异常\n\n自定义异常内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-069"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000019",
+      "java-q-000020",
+      "java-q-000033",
+      "java-q-000044",
+      "java-q-000055"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-061",
+    "courseId": "java-course-10",
+    "order": 6,
+    "title": "try-with-resources",
+    "slug": "try-with-resources",
+    "summary": "try-with-resources",
+    "content": "# try-with-resources\n\ntry-with-resources内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-070"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000019",
+      "java-q-000020",
+      "java-q-000033",
+      "java-q-000044",
+      "java-q-000055"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-062",
+    "courseId": "java-course-11",
+    "order": 1,
+    "title": "ArrayList",
+    "slug": "ArrayList",
+    "summary": "ArrayList",
+    "content": "# ArrayList\n\nArrayList内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-071",
+      "java-kp-072"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000021",
+      "java-q-000022",
+      "java-q-000048",
+      "java-q-000071",
+      "java-q-000083"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-063",
+    "courseId": "java-course-11",
+    "order": 2,
+    "title": "LinkedList",
+    "slug": "LinkedList",
+    "summary": "LinkedList",
+    "content": "# LinkedList\n\nLinkedList内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-073"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000021",
+      "java-q-000022",
+      "java-q-000048",
+      "java-q-000071",
+      "java-q-000083"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-064",
+    "courseId": "java-course-11",
+    "order": 3,
+    "title": "HashMap",
+    "slug": "HashMap",
+    "summary": "HashMap",
+    "content": "# HashMap\n\nHashMap内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-074",
+      "java-kp-075"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000021",
+      "java-q-000022",
+      "java-q-000048",
+      "java-q-000071",
+      "java-q-000083"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-065",
+    "courseId": "java-course-11",
+    "order": 4,
+    "title": "HashSet",
+    "slug": "HashSet",
+    "summary": "HashSet",
+    "content": "# HashSet\n\nHashSet内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-076"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000021",
+      "java-q-000022",
+      "java-q-000048",
+      "java-q-000071",
+      "java-q-000083"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-066",
+    "courseId": "java-course-11",
+    "order": 5,
+    "title": "TreeMap",
+    "slug": "TreeMap",
+    "summary": "TreeMap",
+    "content": "# TreeMap\n\nTreeMap内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-077"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000021",
+      "java-q-000022",
+      "java-q-000048",
+      "java-q-000071",
+      "java-q-000083"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-067",
+    "courseId": "java-course-11",
+    "order": 6,
+    "title": "泛型类",
+    "slug": "泛型类",
+    "summary": "泛型类",
+    "content": "# 泛型类\n\n泛型类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-078"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000021",
+      "java-q-000022",
+      "java-q-000048",
+      "java-q-000071",
+      "java-q-000083"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-068",
+    "courseId": "java-course-11",
+    "order": 7,
+    "title": "泛型方法",
+    "slug": "泛型方法",
+    "summary": "泛型方法",
+    "content": "# 泛型方法\n\n泛型方法内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-079"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000021",
+      "java-q-000022",
+      "java-q-000048",
+      "java-q-000071",
+      "java-q-000083"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-069",
+    "courseId": "java-course-11",
+    "order": 8,
+    "title": "迭代器",
+    "slug": "迭代器",
+    "summary": "迭代器",
+    "content": "# 迭代器\n\n迭代器内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-080"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000021",
+      "java-q-000022",
+      "java-q-000048",
+      "java-q-000071",
+      "java-q-000083"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-070",
+    "courseId": "java-course-11",
+    "order": 9,
+    "title": "Collections工具",
+    "slug": "Collections工具",
+    "summary": "Collections工具",
+    "content": "# Collections工具\n\nCollections工具内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-081"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000021",
+      "java-q-000022",
+      "java-q-000048",
+      "java-q-000071",
+      "java-q-000083"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-071",
+    "courseId": "java-course-12",
+    "order": 1,
+    "title": "字节流",
+    "slug": "字节流",
+    "summary": "字节流",
+    "content": "# 字节流\n\n字节流内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-082"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-072",
+    "courseId": "java-course-12",
+    "order": 2,
+    "title": "字符流",
+    "slug": "字符流",
+    "summary": "字符流",
+    "content": "# 字符流\n\n字符流内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-083"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-073",
+    "courseId": "java-course-12",
+    "order": 3,
+    "title": "缓冲流",
+    "slug": "缓冲流",
+    "summary": "缓冲流",
+    "content": "# 缓冲流\n\n缓冲流内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-084"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-074",
+    "courseId": "java-course-12",
+    "order": 4,
+    "title": "转换流",
+    "slug": "转换流",
+    "summary": "转换流",
+    "content": "# 转换流\n\n转换流内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-085"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-075",
+    "courseId": "java-course-12",
+    "order": 5,
+    "title": "对象序列化",
+    "slug": "对象序列化",
+    "summary": "对象序列化",
+    "content": "# 对象序列化\n\n对象序列化内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-086",
+      "java-kp-087"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-076",
+    "courseId": "java-course-12",
+    "order": 6,
+    "title": "File类",
+    "slug": "File类",
+    "summary": "File类",
+    "content": "# File类\n\nFile类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-088"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-077",
+    "courseId": "java-course-12",
+    "order": 7,
+    "title": "NIO入门",
+    "slug": "NIO入门",
+    "summary": "NIO入门",
+    "content": "# NIO入门\n\nNIO入门内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-089"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-078",
+    "courseId": "java-course-13",
+    "order": 1,
+    "title": "Thread类",
+    "slug": "Thread类",
+    "summary": "Thread类",
+    "content": "# Thread类\n\nThread类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-090",
+      "java-kp-091"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000025",
+      "java-q-000026",
+      "java-q-000067",
+      "java-q-000088",
+      "java-q-000123"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-079",
+    "courseId": "java-course-13",
+    "order": 2,
+    "title": "Runnable",
+    "slug": "Runnable",
+    "summary": "Runnable",
+    "content": "# Runnable\n\nRunnable内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-092"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000025",
+      "java-q-000026",
+      "java-q-000067",
+      "java-q-000088",
+      "java-q-000123"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-080",
+    "courseId": "java-course-13",
+    "order": 3,
+    "title": "线程状态",
+    "slug": "线程状态",
+    "summary": "线程状态",
+    "content": "# 线程状态\n\n线程状态内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-093"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000025",
+      "java-q-000026",
+      "java-q-000067",
+      "java-q-000088",
+      "java-q-000123"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-081",
+    "courseId": "java-course-13",
+    "order": 4,
+    "title": "synchronized",
+    "slug": "synchronized",
+    "summary": "synchronized",
+    "content": "# synchronized\n\nsynchronized内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-094",
+      "java-kp-095"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000025",
+      "java-q-000026",
+      "java-q-000067",
+      "java-q-000088",
+      "java-q-000123"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-082",
+    "courseId": "java-course-13",
+    "order": 5,
+    "title": "线程池",
+    "slug": "线程池",
+    "summary": "线程池",
+    "content": "# 线程池\n\n线程池内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-096",
+      "java-kp-097"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000025",
+      "java-q-000026",
+      "java-q-000067",
+      "java-q-000088",
+      "java-q-000123"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-083",
+    "courseId": "java-course-13",
+    "order": 6,
+    "title": "Lock接口",
+    "slug": "Lock接口",
+    "summary": "Lock接口",
+    "content": "# Lock接口\n\nLock接口内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-098"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000025",
+      "java-q-000026",
+      "java-q-000067",
+      "java-q-000088",
+      "java-q-000123"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-084",
+    "courseId": "java-course-13",
+    "order": 7,
+    "title": "volatile",
+    "slug": "volatile",
+    "summary": "volatile",
+    "content": "# volatile\n\nvolatile内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-099"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000025",
+      "java-q-000026",
+      "java-q-000067",
+      "java-q-000088",
+      "java-q-000123"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-085",
+    "courseId": "java-course-13",
+    "order": 8,
+    "title": "并发工具类",
+    "slug": "并发工具类",
+    "summary": "并发工具类",
+    "content": "# 并发工具类\n\n并发工具类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-100"
+    ],
+    "practiceQuestionIds": [
+      "java-q-000025",
+      "java-q-000026",
+      "java-q-000067",
+      "java-q-000088",
+      "java-q-000123"
+    ],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-086",
+    "courseId": "java-course-14",
+    "order": 1,
+    "title": "JDBC入门",
+    "slug": "JDBC入门",
+    "summary": "JDBC入门",
+    "content": "# JDBC入门\n\nJDBC入门内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-101"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-087",
+    "courseId": "java-course-14",
+    "order": 2,
+    "title": "Maven入门",
+    "slug": "Maven入门",
+    "summary": "Maven入门",
+    "content": "# Maven入门\n\nMaven入门内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-102"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-088",
+    "courseId": "java-course-14",
+    "order": 3,
+    "title": "MVC项目结构",
+    "slug": "MVC项目结构",
+    "summary": "MVC项目结构",
+    "content": "# MVC项目结构\n\nMVC项目结构内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-103"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-089",
+    "courseId": "java-course-14",
+    "order": 4,
+    "title": "学生管理系统",
+    "slug": "学生管理系统",
+    "summary": "学生管理系统",
+    "content": "# 学生管理系统\n\n学生管理系统内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-104"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-090",
+    "courseId": "java-course-14",
+    "order": 5,
+    "title": "Java面试基础",
+    "slug": "Java面试基础",
+    "summary": "Java面试基础",
+    "content": "# Java面试基础\n\nJava面试基础内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-105"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-091",
+    "courseId": "java-course-14",
+    "order": 6,
+    "title": "Lambda入门",
+    "slug": "Lambda入门",
+    "summary": "Lambda入门",
+    "content": "# Lambda入门\n\nLambda入门内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-106"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-092",
+    "courseId": "java-course-14",
+    "order": 7,
+    "title": "Stream入门",
+    "slug": "Stream入门",
+    "summary": "Stream入门",
+    "content": "# Stream入门\n\nStream入门内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-107"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-093",
+    "courseId": "java-course-14",
+    "order": 8,
+    "title": "Lombok入门",
+    "slug": "Lombok入门",
+    "summary": "Lombok入门",
+    "content": "# Lombok入门\n\nLombok入门内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-108"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-094",
+    "courseId": "java-course-14",
+    "order": 9,
+    "title": "JUnit测试",
+    "slug": "JUnit测试",
+    "summary": "JUnit测试",
+    "content": "# JUnit测试\n\nJUnit测试内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-109"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-095",
+    "courseId": "java-course-14",
+    "order": 10,
+    "title": "模拟测试",
+    "slug": "模拟测试",
+    "summary": "模拟测试",
+    "content": "# 模拟测试\n\n模拟测试内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-110"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-096",
+    "courseId": "java-course-14",
+    "order": 11,
+    "title": "考前冲刺",
+    "slug": "考前冲刺",
+    "summary": "考前冲刺",
+    "content": "# 考前冲刺\n\n考前冲刺内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "java-kp-111"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-097",
+    "courseId": "java-course-01",
+    "order": 6,
+    "title": "Java语言特性",
+    "slug": "Java语言特性",
+    "summary": "Java语言特性",
+    "content": "# Java语言特性\n\nJava语言特性内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0097"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-098",
+    "courseId": "java-course-01",
+    "order": 7,
+    "title": "跨平台原理",
+    "slug": "跨平台原理",
+    "summary": "跨平台原理",
+    "content": "# 跨平台原理\n\n跨平台原理内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0098"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-099",
+    "courseId": "java-course-02",
+    "order": 5,
+    "title": "Scanner输入",
+    "slug": "Scanner输入",
+    "summary": "Scanner输入",
+    "content": "# Scanner输入\n\nScanner输入内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0099"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-100",
+    "courseId": "java-course-02",
+    "order": 6,
+    "title": "格式化输出",
+    "slug": "格式化输出",
+    "summary": "格式化输出",
+    "content": "# 格式化输出\n\n格式化输出内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0100"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-101",
+    "courseId": "java-course-03",
+    "order": 10,
+    "title": "自增自减",
+    "slug": "自增自减",
+    "summary": "自增自减",
+    "content": "# 自增自减\n\n自增自减内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0101"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-102",
+    "courseId": "java-course-03",
+    "order": 11,
+    "title": "位运算应用",
+    "slug": "位运算应用",
+    "summary": "位运算应用",
+    "content": "# 位运算应用\n\n位运算应用内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0102"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-103",
+    "courseId": "java-course-04",
+    "order": 8,
+    "title": "for-each",
+    "slug": "for-each",
+    "summary": "for-each",
+    "content": "# for-each\n\nfor-each内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0103"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-104",
+    "courseId": "java-course-04",
+    "order": 9,
+    "title": "流程控制综合",
+    "slug": "流程控制综合",
+    "summary": "流程控制综合",
+    "content": "# 流程控制综合\n\n流程控制综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0104"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-105",
+    "courseId": "java-course-05",
+    "order": 6,
+    "title": "数组工具类Arrays",
+    "slug": "数组工具类Arrays",
+    "summary": "数组工具类Arrays",
+    "content": "# 数组工具类Arrays\n\n数组工具类Arrays内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0105"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-106",
+    "courseId": "java-course-05",
+    "order": 7,
+    "title": "字符串格式化",
+    "slug": "字符串格式化",
+    "summary": "字符串格式化",
+    "content": "# 字符串格式化\n\n字符串格式化内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0106"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-107",
+    "courseId": "java-course-06",
+    "order": 7,
+    "title": "值传递案例",
+    "slug": "值传递案例",
+    "summary": "值传递案例",
+    "content": "# 值传递案例\n\n值传递案例内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0107"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-108",
+    "courseId": "java-course-06",
+    "order": 8,
+    "title": "递归二分查找",
+    "slug": "递归二分查找",
+    "summary": "递归二分查找",
+    "content": "# 递归二分查找\n\n递归二分查找内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0108"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-109",
+    "courseId": "java-course-07",
+    "order": 7,
+    "title": "构造方法重载",
+    "slug": "构造方法重载",
+    "summary": "构造方法重载",
+    "content": "# 构造方法重载\n\n构造方法重载内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0109"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-110",
+    "courseId": "java-course-07",
+    "order": 8,
+    "title": "单例模式",
+    "slug": "单例模式",
+    "summary": "单例模式",
+    "content": "# 单例模式\n\n单例模式内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0110"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-111",
+    "courseId": "java-course-08",
+    "order": 8,
+    "title": "方法重写规则",
+    "slug": "方法重写规则",
+    "summary": "方法重写规则",
+    "content": "# 方法重写规则\n\n方法重写规则内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0111"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-112",
+    "courseId": "java-course-08",
+    "order": 9,
+    "title": "super调用父类",
+    "slug": "super调用父类",
+    "summary": "super调用父类",
+    "content": "# super调用父类\n\nsuper调用父类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0112"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-113",
+    "courseId": "java-course-08",
+    "order": 10,
+    "title": "final类与final方法",
+    "slug": "final类与final方法",
+    "summary": "final类与final方法",
+    "content": "# final类与final方法\n\nfinal类与final方法内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0113"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-114",
+    "courseId": "java-course-09",
+    "order": 7,
+    "title": "匿名内部类",
+    "slug": "匿名内部类",
+    "summary": "匿名内部类",
+    "content": "# 匿名内部类\n\n匿名内部类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0114"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-115",
+    "courseId": "java-course-09",
+    "order": 8,
+    "title": "Lambda简化",
+    "slug": "Lambda简化",
+    "summary": "Lambda简化",
+    "content": "# Lambda简化\n\nLambda简化内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0115"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-116",
+    "courseId": "java-course-09",
+    "order": 9,
+    "title": "Comparator排序",
+    "slug": "Comparator排序",
+    "summary": "Comparator排序",
+    "content": "# Comparator排序\n\nComparator排序内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0116"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-117",
+    "courseId": "java-course-10",
+    "order": 7,
+    "title": "多catch顺序",
+    "slug": "多catch顺序",
+    "summary": "多catch顺序",
+    "content": "# 多catch顺序\n\n多catch顺序内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0117"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-118",
+    "courseId": "java-course-10",
+    "order": 8,
+    "title": "自定义异常案例",
+    "slug": "自定义异常案例",
+    "summary": "自定义异常案例",
+    "content": "# 自定义异常案例\n\n自定义异常案例内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0118"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-119",
+    "courseId": "java-course-10",
+    "order": 9,
+    "title": "日志记录",
+    "slug": "日志记录",
+    "summary": "日志记录",
+    "content": "# 日志记录\n\n日志记录内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0119"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-120",
+    "courseId": "java-course-11",
+    "order": 10,
+    "title": "HashMap遍历",
+    "slug": "HashMap遍历",
+    "summary": "HashMap遍历",
+    "content": "# HashMap遍历\n\nHashMap遍历内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0120"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-121",
+    "courseId": "java-course-11",
+    "order": 11,
+    "title": "TreeMap排序",
+    "slug": "TreeMap排序",
+    "summary": "TreeMap排序",
+    "content": "# TreeMap排序\n\nTreeMap排序内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0121"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-122",
+    "courseId": "java-course-11",
+    "order": 12,
+    "title": "Collections排序",
+    "slug": "Collections排序",
+    "summary": "Collections排序",
+    "content": "# Collections排序\n\nCollections排序内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0122"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-123",
+    "courseId": "java-course-11",
+    "order": 13,
+    "title": "泛型通配符",
+    "slug": "泛型通配符",
+    "summary": "泛型通配符",
+    "content": "# 泛型通配符\n\n泛型通配符内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0123"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-124",
+    "courseId": "java-course-12",
+    "order": 8,
+    "title": "文件复制",
+    "slug": "文件复制",
+    "summary": "文件复制",
+    "content": "# 文件复制\n\n文件复制内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0124"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-125",
+    "courseId": "java-course-12",
+    "order": 9,
+    "title": "Properties配置",
+    "slug": "Properties配置",
+    "summary": "Properties配置",
+    "content": "# Properties配置\n\nProperties配置内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0125"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-126",
+    "courseId": "java-course-12",
+    "order": 10,
+    "title": "NIO Files",
+    "slug": "NIO-Files",
+    "summary": "NIO Files",
+    "content": "# NIO Files\n\nNIO Files内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0126"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-127",
+    "courseId": "java-course-13",
+    "order": 9,
+    "title": "Callable与Future",
+    "slug": "Callable与Future",
+    "summary": "Callable与Future",
+    "content": "# Callable与Future\n\nCallable与Future内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0127"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-128",
+    "courseId": "java-course-13",
+    "order": 10,
+    "title": "线程通信",
+    "slug": "线程通信",
+    "summary": "线程通信",
+    "content": "# 线程通信\n\n线程通信内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0128"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-129",
+    "courseId": "java-course-13",
+    "order": 11,
+    "title": "ThreadLocal",
+    "slug": "ThreadLocal",
+    "summary": "ThreadLocal",
+    "content": "# ThreadLocal\n\nThreadLocal内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0129"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-130",
+    "courseId": "java-course-13",
+    "order": 12,
+    "title": "ForkJoin",
+    "slug": "ForkJoin",
+    "summary": "ForkJoin",
+    "content": "# ForkJoin\n\nForkJoin内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0130"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-131",
+    "courseId": "java-course-13",
+    "order": 13,
+    "title": "CompletableFuture",
+    "slug": "CompletableFuture",
+    "summary": "CompletableFuture",
+    "content": "# CompletableFuture\n\nCompletableFuture内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0131"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-132",
+    "courseId": "java-course-14",
+    "order": 12,
+    "title": "SpringBoot项目结构",
+    "slug": "SpringBoot项目结构",
+    "summary": "SpringBoot项目结构",
+    "content": "# SpringBoot项目结构\n\nSpringBoot项目结构内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0132"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-133",
+    "courseId": "java-course-14",
+    "order": 13,
+    "title": "RESTfulAPI",
+    "slug": "RESTfulAPI",
+    "summary": "RESTfulAPI",
+    "content": "# RESTfulAPI\n\nRESTfulAPI内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0133"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-134",
+    "courseId": "java-course-14",
+    "order": 14,
+    "title": "Lombok使用",
+    "slug": "Lombok使用",
+    "summary": "Lombok使用",
+    "content": "# Lombok使用\n\nLombok使用内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0134"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-135",
+    "courseId": "java-course-14",
+    "order": 15,
+    "title": "JUnit测试",
+    "slug": "JUnit测试",
+    "summary": "JUnit测试",
+    "content": "# JUnit测试\n\nJUnit测试内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0135"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-136",
+    "courseId": "java-course-14",
+    "order": 16,
+    "title": "项目打包",
+    "slug": "项目打包",
+    "summary": "项目打包",
+    "content": "# 项目打包\n\n项目打包内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0136"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-137",
+    "courseId": "java-course-14",
+    "order": 17,
+    "title": "复习一语法",
+    "slug": "复习一语法",
+    "summary": "复习一语法",
+    "content": "# 复习一语法\n\n复习一语法内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0137"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-138",
+    "courseId": "java-course-14",
+    "order": 18,
+    "title": "复习二OOP",
+    "slug": "复习二OOP",
+    "summary": "复习二OOP",
+    "content": "# 复习二OOP\n\n复习二OOP内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0138"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-139",
+    "courseId": "java-course-14",
+    "order": 19,
+    "title": "复习三集合",
+    "slug": "复习三集合",
+    "summary": "复习三集合",
+    "content": "# 复习三集合\n\n复习三集合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0139"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-140",
+    "courseId": "java-course-14",
+    "order": 20,
+    "title": "复习四IO",
+    "slug": "复习四IO",
+    "summary": "复习四IO",
+    "content": "# 复习四IO\n\n复习四IO内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0140"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-141",
+    "courseId": "java-course-14",
+    "order": 21,
+    "title": "复习五多线程",
+    "slug": "复习五多线程",
+    "summary": "复习五多线程",
+    "content": "# 复习五多线程\n\n复习五多线程内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0141"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-142",
+    "courseId": "java-course-14",
+    "order": 22,
+    "title": "面试题精讲",
+    "slug": "面试题精讲",
+    "summary": "面试题精讲",
+    "content": "# 面试题精讲\n\n面试题精讲内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0142"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-143",
+    "courseId": "java-course-14",
+    "order": 23,
+    "title": "模拟测试",
+    "slug": "模拟测试",
+    "summary": "模拟测试",
+    "content": "# 模拟测试\n\n模拟测试内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0143"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-144",
+    "courseId": "java-course-01",
+    "order": 8,
+    "title": "补充课程1",
+    "slug": "补充课程1",
+    "summary": "补充课程1",
+    "content": "# 补充课程1\n\n补充课程1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0144"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-145",
+    "courseId": "java-course-02",
+    "order": 7,
+    "title": "补充课程2",
+    "slug": "补充课程2",
+    "summary": "补充课程2",
+    "content": "# 补充课程2\n\n补充课程2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0145"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-146",
+    "courseId": "java-course-03",
+    "order": 12,
+    "title": "补充课程3",
+    "slug": "补充课程3",
+    "summary": "补充课程3",
+    "content": "# 补充课程3\n\n补充课程3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0146"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-147",
+    "courseId": "java-course-04",
+    "order": 10,
+    "title": "补充课程4",
+    "slug": "补充课程4",
+    "summary": "补充课程4",
+    "content": "# 补充课程4\n\n补充课程4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0147"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-148",
+    "courseId": "java-course-05",
+    "order": 8,
+    "title": "补充课程5",
+    "slug": "补充课程5",
+    "summary": "补充课程5",
+    "content": "# 补充课程5\n\n补充课程5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0148"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-149",
+    "courseId": "java-course-06",
+    "order": 9,
+    "title": "补充课程6",
+    "slug": "补充课程6",
+    "summary": "补充课程6",
+    "content": "# 补充课程6\n\n补充课程6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0149"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-150",
+    "courseId": "java-course-07",
+    "order": 9,
+    "title": "补充课程7",
+    "slug": "补充课程7",
+    "summary": "补充课程7",
+    "content": "# 补充课程7\n\n补充课程7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0150"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-151",
+    "courseId": "java-course-08",
+    "order": 11,
+    "title": "补充课程8",
+    "slug": "补充课程8",
+    "summary": "补充课程8",
+    "content": "# 补充课程8\n\n补充课程8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0151"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-152",
+    "courseId": "java-course-09",
+    "order": 10,
+    "title": "补充课程9",
+    "slug": "补充课程9",
+    "summary": "补充课程9",
+    "content": "# 补充课程9\n\n补充课程9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0152"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-153",
+    "courseId": "java-course-10",
+    "order": 10,
+    "title": "补充课程10",
+    "slug": "补充课程10",
+    "summary": "补充课程10",
+    "content": "# 补充课程10\n\n补充课程10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0153"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-154",
+    "courseId": "java-course-11",
+    "order": 14,
+    "title": "补充课程11",
+    "slug": "补充课程11",
+    "summary": "补充课程11",
+    "content": "# 补充课程11\n\n补充课程11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0154"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-155",
+    "courseId": "java-course-12",
+    "order": 11,
+    "title": "补充课程12",
+    "slug": "补充课程12",
+    "summary": "补充课程12",
+    "content": "# 补充课程12\n\n补充课程12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0155"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-156",
+    "courseId": "java-course-13",
+    "order": 14,
+    "title": "补充课程13",
+    "slug": "补充课程13",
+    "summary": "补充课程13",
+    "content": "# 补充课程13\n\n补充课程13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0156"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-157",
+    "courseId": "java-course-14",
+    "order": 24,
+    "title": "补充课程14",
+    "slug": "补充课程14",
+    "summary": "补充课程14",
+    "content": "# 补充课程14\n\n补充课程14内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0157"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-158",
+    "courseId": "java-course-01",
+    "order": 9,
+    "title": "补充课程15",
+    "slug": "补充课程15",
+    "summary": "补充课程15",
+    "content": "# 补充课程15\n\n补充课程15内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0158"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-159",
+    "courseId": "java-course-02",
+    "order": 8,
+    "title": "补充课程16",
+    "slug": "补充课程16",
+    "summary": "补充课程16",
+    "content": "# 补充课程16\n\n补充课程16内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0159"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-160",
+    "courseId": "java-course-03",
+    "order": 13,
+    "title": "补充课程17",
+    "slug": "补充课程17",
+    "summary": "补充课程17",
+    "content": "# 补充课程17\n\n补充课程17内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0160"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-161",
+    "courseId": "java-course-04",
+    "order": 11,
+    "title": "补充课程18",
+    "slug": "补充课程18",
+    "summary": "补充课程18",
+    "content": "# 补充课程18\n\n补充课程18内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0161"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-162",
+    "courseId": "java-course-05",
+    "order": 9,
+    "title": "补充课程19",
+    "slug": "补充课程19",
+    "summary": "补充课程19",
+    "content": "# 补充课程19\n\n补充课程19内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0162"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-163",
+    "courseId": "java-course-06",
+    "order": 10,
+    "title": "补充课程20",
+    "slug": "补充课程20",
+    "summary": "补充课程20",
+    "content": "# 补充课程20\n\n补充课程20内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0163"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-164",
+    "courseId": "java-course-07",
+    "order": 10,
+    "title": "补充课程21",
+    "slug": "补充课程21",
+    "summary": "补充课程21",
+    "content": "# 补充课程21\n\n补充课程21内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0164"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-165",
+    "courseId": "java-course-08",
+    "order": 12,
+    "title": "补充课程22",
+    "slug": "补充课程22",
+    "summary": "补充课程22",
+    "content": "# 补充课程22\n\n补充课程22内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0165"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-166",
+    "courseId": "java-course-09",
+    "order": 11,
+    "title": "补充课程23",
+    "slug": "补充课程23",
+    "summary": "补充课程23",
+    "content": "# 补充课程23\n\n补充课程23内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0166"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-167",
+    "courseId": "java-course-10",
+    "order": 11,
+    "title": "补充课程24",
+    "slug": "补充课程24",
+    "summary": "补充课程24",
+    "content": "# 补充课程24\n\n补充课程24内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0167"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-168",
+    "courseId": "java-course-11",
+    "order": 15,
+    "title": "补充课程25",
+    "slug": "补充课程25",
+    "summary": "补充课程25",
+    "content": "# 补充课程25\n\n补充课程25内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0168"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-169",
+    "courseId": "java-course-12",
+    "order": 12,
+    "title": "补充课程26",
+    "slug": "补充课程26",
+    "summary": "补充课程26",
+    "content": "# 补充课程26\n\n补充课程26内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0169"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-170",
+    "courseId": "java-course-13",
+    "order": 15,
+    "title": "补充课程27",
+    "slug": "补充课程27",
+    "summary": "补充课程27",
+    "content": "# 补充课程27\n\n补充课程27内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0170"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-171",
+    "courseId": "java-course-14",
+    "order": 25,
+    "title": "补充课程28",
+    "slug": "补充课程28",
+    "summary": "补充课程28",
+    "content": "# 补充课程28\n\n补充课程28内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0171"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-172",
+    "courseId": "java-course-01",
+    "order": 10,
+    "title": "补充课程29",
+    "slug": "补充课程29",
+    "summary": "补充课程29",
+    "content": "# 补充课程29\n\n补充课程29内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0172"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-173",
+    "courseId": "java-course-02",
+    "order": 9,
+    "title": "补充课程30",
+    "slug": "补充课程30",
+    "summary": "补充课程30",
+    "content": "# 补充课程30\n\n补充课程30内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0173"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-174",
+    "courseId": "java-course-03",
+    "order": 14,
+    "title": "补充课程31",
+    "slug": "补充课程31",
+    "summary": "补充课程31",
+    "content": "# 补充课程31\n\n补充课程31内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0174"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-175",
+    "courseId": "java-course-04",
+    "order": 12,
+    "title": "补充课程32",
+    "slug": "补充课程32",
+    "summary": "补充课程32",
+    "content": "# 补充课程32\n\n补充课程32内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0175"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-176",
+    "courseId": "java-course-05",
+    "order": 10,
+    "title": "补充课程33",
+    "slug": "补充课程33",
+    "summary": "补充课程33",
+    "content": "# 补充课程33\n\n补充课程33内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0176"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-177",
+    "courseId": "java-course-06",
+    "order": 11,
+    "title": "补充课程34",
+    "slug": "补充课程34",
+    "summary": "补充课程34",
+    "content": "# 补充课程34\n\n补充课程34内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0177"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-178",
+    "courseId": "java-course-07",
+    "order": 11,
+    "title": "补充课程35",
+    "slug": "补充课程35",
+    "summary": "补充课程35",
+    "content": "# 补充课程35\n\n补充课程35内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0178"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-179",
+    "courseId": "java-course-08",
+    "order": 13,
+    "title": "补充课程36",
+    "slug": "补充课程36",
+    "summary": "补充课程36",
+    "content": "# 补充课程36\n\n补充课程36内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0179"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-180",
+    "courseId": "java-course-09",
+    "order": 12,
+    "title": "补充课程37",
+    "slug": "补充课程37",
+    "summary": "补充课程37",
+    "content": "# 补充课程37\n\n补充课程37内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0180"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-181",
+    "courseId": "java-course-10",
+    "order": 12,
+    "title": "补充课程38",
+    "slug": "补充课程38",
+    "summary": "补充课程38",
+    "content": "# 补充课程38\n\n补充课程38内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0181"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-182",
+    "courseId": "java-course-11",
+    "order": 16,
+    "title": "补充课程39",
+    "slug": "补充课程39",
+    "summary": "补充课程39",
+    "content": "# 补充课程39\n\n补充课程39内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0182"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-lesson-183",
+    "courseId": "java-course-12",
+    "order": 13,
+    "title": "补充课程40",
+    "slug": "补充课程40",
+    "summary": "补充课程40",
+    "content": "# 补充课程40\n\n补充课程40内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "java-kp-0183"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Java"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]

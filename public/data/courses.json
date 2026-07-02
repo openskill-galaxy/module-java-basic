@@ -1,0 +1,434 @@
+[
+  {
+    "id": "java-course-01",
+    "order": 1,
+    "slug": "Java入门与开发环境",
+    "title": "Java 入门与开发环境",
+    "description": "Java概述、JDK安装、IDE配置、HelloWorld、编译运行。",
+    "estimatedHours": 6,
+    "difficulty": "easy",
+    "tags": [
+      "Java 入门与开发环境"
+    ],
+    "lessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005"
+    ],
+    "totalLessons": 5,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-02",
+    "order": 2,
+    "slug": "Java基础语法",
+    "title": "Java 基础语法",
+    "description": "基本语法、标识符、关键字、注释、数据类型、变量、控制台输入输出。",
+    "estimatedHours": 8,
+    "difficulty": "easy",
+    "tags": [
+      "Java 基础语法"
+    ],
+    "lessonIds": [
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009"
+    ],
+    "totalLessons": 4,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-03",
+    "order": 3,
+    "slug": "数据类型变量与运算符",
+    "title": "数据类型、变量与运算符",
+    "description": "基本数据类型、引用类型、类型转换、各种运算符与表达式。",
+    "estimatedHours": 10,
+    "difficulty": "easy",
+    "tags": [
+      "数据类型、变量与运算符"
+    ],
+    "lessonIds": [
+      "java-lesson-010",
+      "java-lesson-011",
+      "java-lesson-012",
+      "java-lesson-013",
+      "java-lesson-014",
+      "java-lesson-015",
+      "java-lesson-016",
+      "java-lesson-017",
+      "java-lesson-018"
+    ],
+    "totalLessons": 9,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-04",
+    "order": 4,
+    "slug": "流程控制",
+    "title": "流程控制",
+    "description": "if/switch选择结构、for/while/do-while循环、break/continue。",
+    "estimatedHours": 8,
+    "difficulty": "easy",
+    "tags": [
+      "流程控制"
+    ],
+    "lessonIds": [
+      "java-lesson-019",
+      "java-lesson-020",
+      "java-lesson-021",
+      "java-lesson-022",
+      "java-lesson-023",
+      "java-lesson-024",
+      "java-lesson-025"
+    ],
+    "totalLessons": 7,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-05",
+    "order": 5,
+    "slug": "数组与字符串",
+    "title": "数组与字符串",
+    "description": "一维二维数组、String/StringBuilder/StringBuffer、常用API。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "数组与字符串"
+    ],
+    "lessonIds": [
+      "java-lesson-026",
+      "java-lesson-027",
+      "java-lesson-028",
+      "java-lesson-029",
+      "java-lesson-030"
+    ],
+    "totalLessons": 5,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-06",
+    "order": 6,
+    "slug": "方法参数与递归",
+    "title": "方法、参数与递归",
+    "description": "方法定义、参数传递、方法重载、递归、可变参数。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "方法、参数与递归"
+    ],
+    "lessonIds": [
+      "java-lesson-031",
+      "java-lesson-032",
+      "java-lesson-033",
+      "java-lesson-034",
+      "java-lesson-035",
+      "java-lesson-036"
+    ],
+    "totalLessons": 6,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-07",
+    "order": 7,
+    "slug": "面向对象基础",
+    "title": "面向对象基础",
+    "description": "类与对象、构造方法、封装、this、static、package与import。",
+    "estimatedHours": 12,
+    "difficulty": "medium",
+    "tags": [
+      "面向对象基础"
+    ],
+    "lessonIds": [
+      "java-lesson-037",
+      "java-lesson-038",
+      "java-lesson-039",
+      "java-lesson-040",
+      "java-lesson-041",
+      "java-lesson-042"
+    ],
+    "totalLessons": 6,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-08",
+    "order": 8,
+    "slug": "继承多态与抽象类",
+    "title": "继承、多态与抽象类",
+    "description": "继承、super、重写、多态、final、抽象类、Object类。",
+    "estimatedHours": 12,
+    "difficulty": "medium",
+    "tags": [
+      "继承、多态与抽象类"
+    ],
+    "lessonIds": [
+      "java-lesson-043",
+      "java-lesson-044",
+      "java-lesson-045",
+      "java-lesson-046",
+      "java-lesson-047",
+      "java-lesson-048",
+      "java-lesson-049"
+    ],
+    "totalLessons": 7,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-09",
+    "order": 9,
+    "slug": "接口内部类与常用类",
+    "title": "接口、内部类与常用类",
+    "description": "接口定义实现、lambda接口、内部类、包装类、日期类。",
+    "estimatedHours": 12,
+    "difficulty": "hard",
+    "tags": [
+      "接口、内部类与常用类"
+    ],
+    "lessonIds": [
+      "java-lesson-050",
+      "java-lesson-051",
+      "java-lesson-052",
+      "java-lesson-053",
+      "java-lesson-054",
+      "java-lesson-055"
+    ],
+    "totalLessons": 6,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-10",
+    "order": 10,
+    "slug": "异常处理",
+    "title": "异常处理",
+    "description": "异常分类、try-catch-finally、throws、自定义异常、try-with-resources。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "异常处理"
+    ],
+    "lessonIds": [
+      "java-lesson-056",
+      "java-lesson-057",
+      "java-lesson-058",
+      "java-lesson-059",
+      "java-lesson-060",
+      "java-lesson-061"
+    ],
+    "totalLessons": 6,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-11",
+    "order": 11,
+    "slug": "集合框架与泛型",
+    "title": "集合框架与泛型",
+    "description": "ArrayList/LinkedList/HashMap/HashSet/TreeMap、泛型、迭代器、Collections工具类。",
+    "estimatedHours": 16,
+    "difficulty": "hard",
+    "tags": [
+      "集合框架与泛型"
+    ],
+    "lessonIds": [
+      "java-lesson-062",
+      "java-lesson-063",
+      "java-lesson-064",
+      "java-lesson-065",
+      "java-lesson-066",
+      "java-lesson-067",
+      "java-lesson-068",
+      "java-lesson-069",
+      "java-lesson-070"
+    ],
+    "totalLessons": 9,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-12",
+    "order": 12,
+    "slug": "IO流与文件操作",
+    "title": "IO 流与文件操作",
+    "description": "字节流字符流、缓冲流、转换流、对象流、NIO入门、File类。",
+    "estimatedHours": 12,
+    "difficulty": "hard",
+    "tags": [
+      "IO 流与文件操作"
+    ],
+    "lessonIds": [
+      "java-lesson-071",
+      "java-lesson-072",
+      "java-lesson-073",
+      "java-lesson-074",
+      "java-lesson-075",
+      "java-lesson-076",
+      "java-lesson-077"
+    ],
+    "totalLessons": 7,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-13",
+    "order": 13,
+    "slug": "多线程与并发基础",
+    "title": "多线程与并发基础",
+    "description": "Thread/Runnable、线程池、synchronized、Lock、并发工具、线程安全。",
+    "estimatedHours": 16,
+    "difficulty": "hard",
+    "tags": [
+      "多线程与并发基础"
+    ],
+    "lessonIds": [
+      "java-lesson-078",
+      "java-lesson-079",
+      "java-lesson-080",
+      "java-lesson-081",
+      "java-lesson-082",
+      "java-lesson-083",
+      "java-lesson-084",
+      "java-lesson-085"
+    ],
+    "totalLessons": 8,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "java-course-14",
+    "order": 14,
+    "slug": "Java后端入门与项目实战",
+    "title": "Java 后端入门与项目实战",
+    "description": "JDBC、Maven、项目结构、学生管理系统、后端基础与面试。",
+    "estimatedHours": 12,
+    "difficulty": "hard",
+    "tags": [
+      "Java 后端入门与项目实战"
+    ],
+    "lessonIds": [
+      "java-lesson-086",
+      "java-lesson-087",
+      "java-lesson-088",
+      "java-lesson-089",
+      "java-lesson-090",
+      "java-lesson-091",
+      "java-lesson-092",
+      "java-lesson-093",
+      "java-lesson-094",
+      "java-lesson-095",
+      "java-lesson-096"
+    ],
+    "totalLessons": 11,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]

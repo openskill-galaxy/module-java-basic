@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "java-route-01",
+    "slug": "7天Java入门",
+    "title": "7天Java入门",
+    "description": "7天Java入门",
+    "summary": "7天Java入门",
+    "targetUser": "快速入门",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-02",
+    "slug": "14天Java基础",
+    "title": "14天Java基础",
+    "description": "14天Java基础",
+    "summary": "14天Java基础",
+    "targetUser": "基础全面",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-03",
+    "slug": "21天面向对象",
+    "title": "21天面向对象",
+    "description": "21天面向对象",
+    "summary": "21天面向对象",
+    "targetUser": "OOP",
+    "durationDays": 21,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-21天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-21天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-04",
+    "slug": "30天集合与IO",
+    "title": "30天集合与IO",
+    "description": "30天集合与IO",
+    "summary": "30天集合与IO",
+    "targetUser": "集合IO",
+    "durationDays": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-30天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-05",
+    "slug": "45天多线程",
+    "title": "45天多线程",
+    "description": "45天多线程",
+    "summary": "45天多线程",
+    "targetUser": "并发编程",
+    "durationDays": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-06",
+    "slug": "60天后端基础",
+    "title": "60天后端基础",
+    "description": "60天后端基础",
+    "summary": "60天后端基础",
+    "targetUser": "后端入门",
+    "durationDays": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-07",
+    "slug": "语法专项",
+    "title": "语法专项",
+    "description": "语法专项",
+    "summary": "语法专项",
+    "targetUser": "基础语法",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-08",
+    "slug": "OOP专项",
+    "title": "OOP专项",
+    "description": "OOP专项",
+    "summary": "OOP专项",
+    "targetUser": "面向对象",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-09",
+    "slug": "集合专项",
+    "title": "集合专项",
+    "description": "集合专项",
+    "summary": "集合专项",
+    "targetUser": "集合框架",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-10",
+    "slug": "异常专项",
+    "title": "异常专项",
+    "description": "异常专项",
+    "summary": "异常专项",
+    "targetUser": "异常",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-11",
+    "slug": "IO专项",
+    "title": "IO专项",
+    "description": "IO专项",
+    "summary": "IO专项",
+    "targetUser": "IO流",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-12",
+    "slug": "多线程专项",
+    "title": "多线程专项",
+    "description": "多线程专项",
+    "summary": "多线程专项",
+    "targetUser": "线程",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-13",
+    "slug": "JDBC专项",
+    "title": "JDBC专项",
+    "description": "JDBC专项",
+    "summary": "JDBC专项",
+    "targetUser": "JDBC",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-14",
+    "slug": "Maven专项",
+    "title": "Maven专项",
+    "description": "Maven专项",
+    "summary": "Maven专项",
+    "targetUser": "Maven",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-15",
+    "slug": "面试专项",
+    "title": "面试专项",
+    "description": "面试专项",
+    "summary": "面试专项",
+    "targetUser": "面试",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-16",
+    "slug": "期末冲刺",
+    "title": "期末冲刺",
+    "description": "期末冲刺",
+    "summary": "期末冲刺",
+    "targetUser": "期末",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-17",
+    "slug": "基础复习",
+    "title": "基础复习",
+    "description": "基础复习",
+    "summary": "基础复习",
+    "targetUser": "基础",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-18",
+    "slug": "OOP复习",
+    "title": "OOP复习",
+    "description": "OOP复习",
+    "summary": "OOP复习",
+    "targetUser": "OOP",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-19",
+    "slug": "集合复习",
+    "title": "集合复习",
+    "description": "集合复习",
+    "summary": "集合复习",
+    "targetUser": "集合",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-20",
+    "slug": "IO复习",
+    "title": "IO复习",
+    "description": "IO复习",
+    "summary": "IO复习",
+    "targetUser": "IO",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-21",
+    "slug": "多线程复习",
+    "title": "多线程复习",
+    "description": "多线程复习",
+    "summary": "多线程复习",
+    "targetUser": "线程",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-22",
+    "slug": "SpringBoot入门",
+    "title": "SpringBoot入门",
+    "description": "SpringBoot入门",
+    "summary": "SpringBoot入门",
+    "targetUser": "SpringBoot",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-23",
+    "slug": "Java项目实战",
+    "title": "Java项目实战",
+    "description": "Java项目实战",
+    "summary": "Java项目实战",
+    "targetUser": "项目",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-24",
+    "slug": "SSM框架入门",
+    "title": "SSM框架入门",
+    "description": "SSM框架入门",
+    "summary": "SSM框架入门",
+    "targetUser": "SSM",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-25",
+    "slug": "后端面试准备",
+    "title": "后端面试准备",
+    "description": "后端面试准备",
+    "summary": "后端面试准备",
+    "targetUser": "面试",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-26",
+    "slug": "Java大总结",
+    "title": "Java大总结",
+    "description": "Java大总结",
+    "summary": "Java大总结",
+    "targetUser": "全面总结",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-27",
+    "slug": "数据结构Java实现",
+    "title": "数据结构Java实现",
+    "description": "数据结构Java实现",
+    "summary": "数据结构Java实现",
+    "targetUser": "数据结构",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-28",
+    "slug": "设计模式入门",
+    "title": "设计模式入门",
+    "description": "设计模式入门",
+    "summary": "设计模式入门",
+    "targetUser": "设计模式",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-29",
+    "slug": "JVM入门",
+    "title": "JVM入门",
+    "description": "JVM入门",
+    "summary": "JVM入门",
+    "targetUser": "JVM",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-30",
+    "slug": "算法Java实现",
+    "title": "算法Java实现",
+    "description": "算法Java实现",
+    "summary": "算法Java实现",
+    "targetUser": "算法",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-31",
+    "slug": "Redis入门",
+    "title": "Redis入门",
+    "description": "Redis入门",
+    "summary": "Redis入门",
+    "targetUser": "Redis",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-32",
+    "slug": "Git入门",
+    "title": "Git入门",
+    "description": "Git入门",
+    "summary": "Git入门",
+    "targetUser": "Git",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-33",
+    "slug": "Linux基础",
+    "title": "Linux基础",
+    "description": "Linux基础",
+    "summary": "Linux基础",
+    "targetUser": "Linux",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-34",
+    "slug": "Docker入门",
+    "title": "Docker入门",
+    "description": "Docker入门",
+    "summary": "Docker入门",
+    "targetUser": "Docker",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  },
+  {
+    "id": "java-route-35",
+    "slug": "面试冲刺",
+    "title": "面试冲刺",
+    "description": "面试冲刺",
+    "summary": "面试冲刺",
+    "targetUser": "冲刺",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Java 入门与开发环境",
+        "courseId": "java-course-01",
+        "lessonId": "java-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Java 基础语法",
+        "courseId": "java-course-02",
+        "lessonId": "java-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习数据类型、变量与运算符",
+        "courseId": "java-course-03",
+        "lessonId": "java-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习流程控制",
+        "courseId": "java-course-04",
+        "lessonId": "java-lesson-019"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习数组与字符串",
+        "courseId": "java-course-05",
+        "lessonId": "java-lesson-026"
+      }
+    ],
+    "recommendedCourseIds": [
+      "java-course-01",
+      "java-course-02",
+      "java-course-03",
+      "java-course-04",
+      "java-course-05"
+    ],
+    "recommendedLessonIds": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005",
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009",
+      "java-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Java语法",
+      "理解面向对象",
+      "会用集合框架",
+      "具备后端基础"
+    ]
+  }
+]

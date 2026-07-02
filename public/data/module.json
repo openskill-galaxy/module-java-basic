@@ -1,0 +1,41 @@
+{
+  "id": "mod-java-basic",
+  "slug": "module-java-basic",
+  "title": "Java 程序设计与后端基础",
+  "subtitle": "面向Java初学者与后端开发入门",
+  "description": "面向Java初学者计算机专业学生和后端开发入门者系统学习Java基础语法面向对象异常集合泛型IO多线程JVM入门JDBCMaven后端基础和项目实战的静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "Java",
+    "后端开发",
+    "面向对象",
+    "集合",
+    "多线程",
+    "JDBC",
+    "Maven",
+    "项目实战"
+  ],
+  "estimatedHours": 160,
+  "difficulty": "beginner",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "☕",
+  "repoUrl": "https://github.com/openskill-galaxy/module-java-basic",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 96,
+    "knowledgePoints": 645,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 380
+  }
+}
