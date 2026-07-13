@@ -18,7 +18,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Java概述\n\nJava概述内容。",
+    "knowledgePoints": [
+      "java-kp-001"
+    ]
   },
   {
     "id": "java-lesson-002",
@@ -39,7 +43,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JDK安装配置\n\nJDK安装配置内容。",
+    "knowledgePoints": [
+      "java-kp-002"
+    ]
   },
   {
     "id": "java-lesson-003",
@@ -60,7 +68,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# HelloWorld\n\nHelloWorld内容。",
+    "knowledgePoints": [
+      "java-kp-003"
+    ]
   },
   {
     "id": "java-lesson-004",
@@ -81,7 +93,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 编译与运行\n\n编译与运行内容。",
+    "knowledgePoints": [
+      "java-kp-004"
+    ]
   },
   {
     "id": "java-lesson-005",
@@ -102,7 +118,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# IDE使用\n\nIDE使用内容。",
+    "knowledgePoints": [
+      "java-kp-005"
+    ]
   },
   {
     "id": "java-lesson-006",
@@ -123,7 +143,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 注释与标识符\n\n注释与标识符内容。",
+    "knowledgePoints": [
+      "java-kp-006"
+    ]
   },
   {
     "id": "java-lesson-007",
@@ -144,7 +168,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 关键字\n\n关键字内容。",
+    "knowledgePoints": [
+      "java-kp-007"
+    ]
   },
   {
     "id": "java-lesson-008",
@@ -165,7 +193,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 输出语句\n\n输出语句内容。",
+    "knowledgePoints": [
+      "java-kp-008"
+    ]
   },
   {
     "id": "java-lesson-009",
@@ -186,7 +218,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 基本语法规则\n\n基本语法规则内容。",
+    "knowledgePoints": [
+      "java-kp-009"
+    ]
   },
   {
     "id": "java-lesson-010",
@@ -207,7 +243,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 整数类型\n\n整数类型内容。",
+    "knowledgePoints": [
+      "java-kp-010"
+    ]
   },
   {
     "id": "java-lesson-011",
@@ -228,7 +268,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 浮点类型\n\n浮点类型内容。",
+    "knowledgePoints": [
+      "java-kp-011"
+    ]
   },
   {
     "id": "java-lesson-012",
@@ -249,7 +293,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字符与布尔\n\n字符与布尔内容。",
+    "knowledgePoints": [
+      "java-kp-012"
+    ]
   },
   {
     "id": "java-lesson-013",
@@ -270,7 +318,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 变量与常量\n\n变量与常量内容。",
+    "knowledgePoints": [
+      "java-kp-013"
+    ]
   },
   {
     "id": "java-lesson-014",
@@ -291,7 +343,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 类型转换\n\n类型转换内容。",
+    "knowledgePoints": [
+      "java-kp-014"
+    ]
   },
   {
     "id": "java-lesson-015",
@@ -312,7 +368,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 算术运算符\n\n算术运算符内容。",
+    "knowledgePoints": [
+      "java-kp-015"
+    ]
   },
   {
     "id": "java-lesson-016",
@@ -333,7 +393,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 关系逻辑运算符\n\n关系逻辑运算符内容。",
+    "knowledgePoints": [
+      "java-kp-016"
+    ]
   },
   {
     "id": "java-lesson-017",
@@ -354,7 +418,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 位运算符\n\n位运算符内容。",
+    "knowledgePoints": [
+      "java-kp-017"
+    ]
   },
   {
     "id": "java-lesson-018",
@@ -375,7 +443,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 赋值与三元\n\n赋值与三元内容。",
+    "knowledgePoints": [
+      "java-kp-018"
+    ]
   },
   {
     "id": "java-lesson-019",
@@ -402,7 +474,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# if语句\n\nif语句内容。",
+    "knowledgePoints": [
+      "java-kp-019"
+    ]
   },
   {
     "id": "java-lesson-020",
@@ -429,7 +505,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# switch语句\n\nswitch语句内容。",
+    "knowledgePoints": [
+      "java-kp-020"
+    ]
   },
   {
     "id": "java-lesson-021",
@@ -456,7 +536,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# while循环\n\nwhile循环内容。",
+    "knowledgePoints": [
+      "java-kp-021"
+    ]
   },
   {
     "id": "java-lesson-022",
@@ -483,7 +567,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# do-while\n\ndo-while内容。",
+    "knowledgePoints": [
+      "java-kp-022"
+    ]
   },
   {
     "id": "java-lesson-023",
@@ -510,7 +598,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# for循环\n\nfor循环内容。",
+    "knowledgePoints": [
+      "java-kp-023"
+    ]
   },
   {
     "id": "java-lesson-024",
@@ -537,7 +629,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 嵌套循环\n\n嵌套循环内容。",
+    "knowledgePoints": [
+      "java-kp-024"
+    ]
   },
   {
     "id": "java-lesson-025",
@@ -564,7 +660,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# break与continue\n\nbreak与continue内容。",
+    "knowledgePoints": [
+      "java-kp-025"
+    ]
   },
   {
     "id": "java-lesson-026",
@@ -592,7 +692,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 一维数组\n\n一维数组内容。",
+    "knowledgePoints": [
+      "java-kp-026",
+      "java-kp-027"
+    ]
   },
   {
     "id": "java-lesson-027",
@@ -619,7 +724,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二维数组\n\n二维数组内容。",
+    "knowledgePoints": [
+      "java-kp-028"
+    ]
   },
   {
     "id": "java-lesson-028",
@@ -646,7 +755,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数组拷贝\n\n数组拷贝内容。",
+    "knowledgePoints": [
+      "java-kp-029"
+    ]
   },
   {
     "id": "java-lesson-029",
@@ -674,7 +787,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# String类\n\nString类内容。",
+    "knowledgePoints": [
+      "java-kp-030",
+      "java-kp-031"
+    ]
   },
   {
     "id": "java-lesson-030",
@@ -701,7 +819,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# StringBuilder\n\nStringBuilder内容。",
+    "knowledgePoints": [
+      "java-kp-032"
+    ]
   },
   {
     "id": "java-lesson-031",
@@ -722,7 +844,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方法定义\n\n方法定义内容。",
+    "knowledgePoints": [
+      "java-kp-033"
+    ]
   },
   {
     "id": "java-lesson-032",
@@ -743,7 +869,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方法重载\n\n方法重载内容。",
+    "knowledgePoints": [
+      "java-kp-034"
+    ]
   },
   {
     "id": "java-lesson-033",
@@ -764,7 +894,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 参数传递\n\n参数传递内容。",
+    "knowledgePoints": [
+      "java-kp-035"
+    ]
   },
   {
     "id": "java-lesson-034",
@@ -785,7 +919,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# return\n\nreturn内容。",
+    "knowledgePoints": [
+      "java-kp-036"
+    ]
   },
   {
     "id": "java-lesson-035",
@@ -807,7 +945,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 递归\n\n递归内容。",
+    "knowledgePoints": [
+      "java-kp-037",
+      "java-kp-038"
+    ]
   },
   {
     "id": "java-lesson-036",
@@ -828,7 +971,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 可变参数\n\n可变参数内容。",
+    "knowledgePoints": [
+      "java-kp-039"
+    ]
   },
   {
     "id": "java-lesson-037",
@@ -856,7 +1003,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 类与对象\n\n类与对象内容。",
+    "knowledgePoints": [
+      "java-kp-040",
+      "java-kp-041"
+    ]
   },
   {
     "id": "java-lesson-038",
@@ -883,7 +1035,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 构造方法\n\n构造方法内容。",
+    "knowledgePoints": [
+      "java-kp-042"
+    ]
   },
   {
     "id": "java-lesson-039",
@@ -910,7 +1066,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# this关键字\n\nthis关键字内容。",
+    "knowledgePoints": [
+      "java-kp-043"
+    ]
   },
   {
     "id": "java-lesson-040",
@@ -938,7 +1098,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# static\n\nstatic内容。",
+    "knowledgePoints": [
+      "java-kp-044",
+      "java-kp-045"
+    ]
   },
   {
     "id": "java-lesson-041",
@@ -965,7 +1130,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 封装与getter/setter\n\n封装与getter/setter内容。",
+    "knowledgePoints": [
+      "java-kp-046"
+    ]
   },
   {
     "id": "java-lesson-042",
@@ -992,7 +1161,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# package与import\n\npackage与import内容。",
+    "knowledgePoints": [
+      "java-kp-047"
+    ]
   },
   {
     "id": "java-lesson-043",
@@ -1014,7 +1187,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 继承extends\n\n继承extends内容。",
+    "knowledgePoints": [
+      "java-kp-048",
+      "java-kp-049"
+    ]
   },
   {
     "id": "java-lesson-044",
@@ -1035,7 +1213,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# super关键字\n\nsuper关键字内容。",
+    "knowledgePoints": [
+      "java-kp-050"
+    ]
   },
   {
     "id": "java-lesson-045",
@@ -1056,7 +1238,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方法重写\n\n方法重写内容。",
+    "knowledgePoints": [
+      "java-kp-051"
+    ]
   },
   {
     "id": "java-lesson-046",
@@ -1078,7 +1264,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多态\n\n多态内容。",
+    "knowledgePoints": [
+      "java-kp-052",
+      "java-kp-053"
+    ]
   },
   {
     "id": "java-lesson-047",
@@ -1099,7 +1290,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# final\n\nfinal内容。",
+    "knowledgePoints": [
+      "java-kp-054"
+    ]
   },
   {
     "id": "java-lesson-048",
@@ -1120,7 +1315,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 抽象类\n\n抽象类内容。",
+    "knowledgePoints": [
+      "java-kp-055"
+    ]
   },
   {
     "id": "java-lesson-049",
@@ -1141,7 +1340,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Object类\n\nObject类内容。",
+    "knowledgePoints": [
+      "java-kp-056"
+    ]
   },
   {
     "id": "java-lesson-050",
@@ -1162,7 +1365,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 接口定义\n\n接口定义内容。",
+    "knowledgePoints": [
+      "java-kp-057"
+    ]
   },
   {
     "id": "java-lesson-051",
@@ -1183,7 +1390,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 接口实现\n\n接口实现内容。",
+    "knowledgePoints": [
+      "java-kp-058"
+    ]
   },
   {
     "id": "java-lesson-052",
@@ -1204,7 +1415,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 接口默认方法\n\n接口默认方法内容。",
+    "knowledgePoints": [
+      "java-kp-059"
+    ]
   },
   {
     "id": "java-lesson-053",
@@ -1225,7 +1440,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 内部类\n\n内部类内容。",
+    "knowledgePoints": [
+      "java-kp-060"
+    ]
   },
   {
     "id": "java-lesson-054",
@@ -1247,7 +1466,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 包装类\n\n包装类内容。",
+    "knowledgePoints": [
+      "java-kp-061",
+      "java-kp-062"
+    ]
   },
   {
     "id": "java-lesson-055",
@@ -1268,7 +1492,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 日期类\n\n日期类内容。",
+    "knowledgePoints": [
+      "java-kp-063"
+    ]
   },
   {
     "id": "java-lesson-056",
@@ -1296,7 +1524,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 异常层次\n\n异常层次内容。",
+    "knowledgePoints": [
+      "java-kp-064",
+      "java-kp-065"
+    ]
   },
   {
     "id": "java-lesson-057",
@@ -1323,7 +1556,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# try-catch\n\ntry-catch内容。",
+    "knowledgePoints": [
+      "java-kp-066"
+    ]
   },
   {
     "id": "java-lesson-058",
@@ -1350,7 +1587,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# finally\n\nfinally内容。",
+    "knowledgePoints": [
+      "java-kp-067"
+    ]
   },
   {
     "id": "java-lesson-059",
@@ -1377,7 +1618,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# throws与throw\n\nthrows与throw内容。",
+    "knowledgePoints": [
+      "java-kp-068"
+    ]
   },
   {
     "id": "java-lesson-060",
@@ -1404,7 +1649,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自定义异常\n\n自定义异常内容。",
+    "knowledgePoints": [
+      "java-kp-069"
+    ]
   },
   {
     "id": "java-lesson-061",
@@ -1431,7 +1680,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# try-with-resources\n\ntry-with-resources内容。",
+    "knowledgePoints": [
+      "java-kp-070"
+    ]
   },
   {
     "id": "java-lesson-062",
@@ -1459,7 +1712,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ArrayList\n\nArrayList内容。",
+    "knowledgePoints": [
+      "java-kp-071",
+      "java-kp-072"
+    ]
   },
   {
     "id": "java-lesson-063",
@@ -1486,7 +1744,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# LinkedList\n\nLinkedList内容。",
+    "knowledgePoints": [
+      "java-kp-073"
+    ]
   },
   {
     "id": "java-lesson-064",
@@ -1514,7 +1776,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# HashMap\n\nHashMap内容。",
+    "knowledgePoints": [
+      "java-kp-074",
+      "java-kp-075"
+    ]
   },
   {
     "id": "java-lesson-065",
@@ -1541,7 +1808,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# HashSet\n\nHashSet内容。",
+    "knowledgePoints": [
+      "java-kp-076"
+    ]
   },
   {
     "id": "java-lesson-066",
@@ -1568,7 +1839,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# TreeMap\n\nTreeMap内容。",
+    "knowledgePoints": [
+      "java-kp-077"
+    ]
   },
   {
     "id": "java-lesson-067",
@@ -1595,7 +1870,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 泛型类\n\n泛型类内容。",
+    "knowledgePoints": [
+      "java-kp-078"
+    ]
   },
   {
     "id": "java-lesson-068",
@@ -1622,7 +1901,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 泛型方法\n\n泛型方法内容。",
+    "knowledgePoints": [
+      "java-kp-079"
+    ]
   },
   {
     "id": "java-lesson-069",
@@ -1649,7 +1932,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 迭代器\n\n迭代器内容。",
+    "knowledgePoints": [
+      "java-kp-080"
+    ]
   },
   {
     "id": "java-lesson-070",
@@ -1676,7 +1963,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Collections工具\n\nCollections工具内容。",
+    "knowledgePoints": [
+      "java-kp-081"
+    ]
   },
   {
     "id": "java-lesson-071",
@@ -1697,7 +1988,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字节流\n\n字节流内容。",
+    "knowledgePoints": [
+      "java-kp-082"
+    ]
   },
   {
     "id": "java-lesson-072",
@@ -1718,7 +2013,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字符流\n\n字符流内容。",
+    "knowledgePoints": [
+      "java-kp-083"
+    ]
   },
   {
     "id": "java-lesson-073",
@@ -1739,7 +2038,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 缓冲流\n\n缓冲流内容。",
+    "knowledgePoints": [
+      "java-kp-084"
+    ]
   },
   {
     "id": "java-lesson-074",
@@ -1760,7 +2063,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 转换流\n\n转换流内容。",
+    "knowledgePoints": [
+      "java-kp-085"
+    ]
   },
   {
     "id": "java-lesson-075",
@@ -1782,7 +2089,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 对象序列化\n\n对象序列化内容。",
+    "knowledgePoints": [
+      "java-kp-086",
+      "java-kp-087"
+    ]
   },
   {
     "id": "java-lesson-076",
@@ -1803,7 +2115,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# File类\n\nFile类内容。",
+    "knowledgePoints": [
+      "java-kp-088"
+    ]
   },
   {
     "id": "java-lesson-077",
@@ -1824,7 +2140,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# NIO入门\n\nNIO入门内容。",
+    "knowledgePoints": [
+      "java-kp-089"
+    ]
   },
   {
     "id": "java-lesson-078",
@@ -1852,7 +2172,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Thread类\n\nThread类内容。",
+    "knowledgePoints": [
+      "java-kp-090",
+      "java-kp-091"
+    ]
   },
   {
     "id": "java-lesson-079",
@@ -1879,7 +2204,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Runnable\n\nRunnable内容。",
+    "knowledgePoints": [
+      "java-kp-092"
+    ]
   },
   {
     "id": "java-lesson-080",
@@ -1906,7 +2235,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线程状态\n\n线程状态内容。",
+    "knowledgePoints": [
+      "java-kp-093"
+    ]
   },
   {
     "id": "java-lesson-081",
@@ -1934,7 +2267,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# synchronized\n\nsynchronized内容。",
+    "knowledgePoints": [
+      "java-kp-094",
+      "java-kp-095"
+    ]
   },
   {
     "id": "java-lesson-082",
@@ -1962,7 +2300,12 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线程池\n\n线程池内容。",
+    "knowledgePoints": [
+      "java-kp-096",
+      "java-kp-097"
+    ]
   },
   {
     "id": "java-lesson-083",
@@ -1989,7 +2332,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Lock接口\n\nLock接口内容。",
+    "knowledgePoints": [
+      "java-kp-098"
+    ]
   },
   {
     "id": "java-lesson-084",
@@ -2016,7 +2363,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# volatile\n\nvolatile内容。",
+    "knowledgePoints": [
+      "java-kp-099"
+    ]
   },
   {
     "id": "java-lesson-085",
@@ -2043,7 +2394,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 并发工具类\n\n并发工具类内容。",
+    "knowledgePoints": [
+      "java-kp-100"
+    ]
   },
   {
     "id": "java-lesson-086",
@@ -2064,7 +2419,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JDBC入门\n\nJDBC入门内容。",
+    "knowledgePoints": [
+      "java-kp-101"
+    ]
   },
   {
     "id": "java-lesson-087",
@@ -2085,7 +2444,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Maven入门\n\nMaven入门内容。",
+    "knowledgePoints": [
+      "java-kp-102"
+    ]
   },
   {
     "id": "java-lesson-088",
@@ -2106,7 +2469,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# MVC项目结构\n\nMVC项目结构内容。",
+    "knowledgePoints": [
+      "java-kp-103"
+    ]
   },
   {
     "id": "java-lesson-089",
@@ -2127,7 +2494,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 学生管理系统\n\n学生管理系统内容。",
+    "knowledgePoints": [
+      "java-kp-104"
+    ]
   },
   {
     "id": "java-lesson-090",
@@ -2148,7 +2519,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Java面试基础\n\nJava面试基础内容。",
+    "knowledgePoints": [
+      "java-kp-105"
+    ]
   },
   {
     "id": "java-lesson-091",
@@ -2169,7 +2544,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Lambda入门\n\nLambda入门内容。",
+    "knowledgePoints": [
+      "java-kp-106"
+    ]
   },
   {
     "id": "java-lesson-092",
@@ -2190,7 +2569,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Stream入门\n\nStream入门内容。",
+    "knowledgePoints": [
+      "java-kp-107"
+    ]
   },
   {
     "id": "java-lesson-093",
@@ -2211,7 +2594,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Lombok入门\n\nLombok入门内容。",
+    "knowledgePoints": [
+      "java-kp-108"
+    ]
   },
   {
     "id": "java-lesson-094",
@@ -2232,7 +2619,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JUnit测试\n\nJUnit测试内容。",
+    "knowledgePoints": [
+      "java-kp-109"
+    ]
   },
   {
     "id": "java-lesson-095",
@@ -2253,7 +2644,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模拟测试\n\n模拟测试内容。",
+    "knowledgePoints": [
+      "java-kp-110"
+    ]
   },
   {
     "id": "java-lesson-096",
@@ -2274,7 +2669,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺\n\n考前冲刺内容。",
+    "knowledgePoints": [
+      "java-kp-111"
+    ]
   },
   {
     "id": "java-lesson-097",
@@ -2295,7 +2694,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Java语言特性\n\nJava语言特性内容。",
+    "knowledgePoints": [
+      "java-kp-0097"
+    ]
   },
   {
     "id": "java-lesson-098",
@@ -2316,7 +2719,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 跨平台原理\n\n跨平台原理内容。",
+    "knowledgePoints": [
+      "java-kp-0098"
+    ]
   },
   {
     "id": "java-lesson-099",
@@ -2337,7 +2744,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Scanner输入\n\nScanner输入内容。",
+    "knowledgePoints": [
+      "java-kp-0099"
+    ]
   },
   {
     "id": "java-lesson-100",
@@ -2358,7 +2769,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 格式化输出\n\n格式化输出内容。",
+    "knowledgePoints": [
+      "java-kp-0100"
+    ]
   },
   {
     "id": "java-lesson-101",
@@ -2379,7 +2794,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自增自减\n\n自增自减内容。",
+    "knowledgePoints": [
+      "java-kp-0101"
+    ]
   },
   {
     "id": "java-lesson-102",
@@ -2400,7 +2819,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 位运算应用\n\n位运算应用内容。",
+    "knowledgePoints": [
+      "java-kp-0102"
+    ]
   },
   {
     "id": "java-lesson-103",
@@ -2421,7 +2844,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# for-each\n\nfor-each内容。",
+    "knowledgePoints": [
+      "java-kp-0103"
+    ]
   },
   {
     "id": "java-lesson-104",
@@ -2442,7 +2869,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 流程控制综合\n\n流程控制综合内容。",
+    "knowledgePoints": [
+      "java-kp-0104"
+    ]
   },
   {
     "id": "java-lesson-105",
@@ -2463,7 +2894,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数组工具类Arrays\n\n数组工具类Arrays内容。",
+    "knowledgePoints": [
+      "java-kp-0105"
+    ]
   },
   {
     "id": "java-lesson-106",
@@ -2484,7 +2919,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字符串格式化\n\n字符串格式化内容。",
+    "knowledgePoints": [
+      "java-kp-0106"
+    ]
   },
   {
     "id": "java-lesson-107",
@@ -2505,7 +2944,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 值传递案例\n\n值传递案例内容。",
+    "knowledgePoints": [
+      "java-kp-0107"
+    ]
   },
   {
     "id": "java-lesson-108",
@@ -2526,7 +2969,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 递归二分查找\n\n递归二分查找内容。",
+    "knowledgePoints": [
+      "java-kp-0108"
+    ]
   },
   {
     "id": "java-lesson-109",
@@ -2547,7 +2994,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 构造方法重载\n\n构造方法重载内容。",
+    "knowledgePoints": [
+      "java-kp-0109"
+    ]
   },
   {
     "id": "java-lesson-110",
@@ -2568,7 +3019,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 单例模式\n\n单例模式内容。",
+    "knowledgePoints": [
+      "java-kp-0110"
+    ]
   },
   {
     "id": "java-lesson-111",
@@ -2589,7 +3044,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方法重写规则\n\n方法重写规则内容。",
+    "knowledgePoints": [
+      "java-kp-0111"
+    ]
   },
   {
     "id": "java-lesson-112",
@@ -2610,7 +3069,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# super调用父类\n\nsuper调用父类内容。",
+    "knowledgePoints": [
+      "java-kp-0112"
+    ]
   },
   {
     "id": "java-lesson-113",
@@ -2631,7 +3094,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# final类与final方法\n\nfinal类与final方法内容。",
+    "knowledgePoints": [
+      "java-kp-0113"
+    ]
   },
   {
     "id": "java-lesson-114",
@@ -2652,7 +3119,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 匿名内部类\n\n匿名内部类内容。",
+    "knowledgePoints": [
+      "java-kp-0114"
+    ]
   },
   {
     "id": "java-lesson-115",
@@ -2673,7 +3144,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Lambda简化\n\nLambda简化内容。",
+    "knowledgePoints": [
+      "java-kp-0115"
+    ]
   },
   {
     "id": "java-lesson-116",
@@ -2694,7 +3169,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Comparator排序\n\nComparator排序内容。",
+    "knowledgePoints": [
+      "java-kp-0116"
+    ]
   },
   {
     "id": "java-lesson-117",
@@ -2715,7 +3194,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多catch顺序\n\n多catch顺序内容。",
+    "knowledgePoints": [
+      "java-kp-0117"
+    ]
   },
   {
     "id": "java-lesson-118",
@@ -2736,7 +3219,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自定义异常案例\n\n自定义异常案例内容。",
+    "knowledgePoints": [
+      "java-kp-0118"
+    ]
   },
   {
     "id": "java-lesson-119",
@@ -2757,7 +3244,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 日志记录\n\n日志记录内容。",
+    "knowledgePoints": [
+      "java-kp-0119"
+    ]
   },
   {
     "id": "java-lesson-120",
@@ -2778,7 +3269,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# HashMap遍历\n\nHashMap遍历内容。",
+    "knowledgePoints": [
+      "java-kp-0120"
+    ]
   },
   {
     "id": "java-lesson-121",
@@ -2799,7 +3294,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# TreeMap排序\n\nTreeMap排序内容。",
+    "knowledgePoints": [
+      "java-kp-0121"
+    ]
   },
   {
     "id": "java-lesson-122",
@@ -2820,7 +3319,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Collections排序\n\nCollections排序内容。",
+    "knowledgePoints": [
+      "java-kp-0122"
+    ]
   },
   {
     "id": "java-lesson-123",
@@ -2841,7 +3344,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 泛型通配符\n\n泛型通配符内容。",
+    "knowledgePoints": [
+      "java-kp-0123"
+    ]
   },
   {
     "id": "java-lesson-124",
@@ -2862,7 +3369,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件复制\n\n文件复制内容。",
+    "knowledgePoints": [
+      "java-kp-0124"
+    ]
   },
   {
     "id": "java-lesson-125",
@@ -2883,7 +3394,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Properties配置\n\nProperties配置内容。",
+    "knowledgePoints": [
+      "java-kp-0125"
+    ]
   },
   {
     "id": "java-lesson-126",
@@ -2904,7 +3419,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# NIO Files\n\nNIO Files内容。",
+    "knowledgePoints": [
+      "java-kp-0126"
+    ]
   },
   {
     "id": "java-lesson-127",
@@ -2925,7 +3444,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Callable与Future\n\nCallable与Future内容。",
+    "knowledgePoints": [
+      "java-kp-0127"
+    ]
   },
   {
     "id": "java-lesson-128",
@@ -2946,7 +3469,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线程通信\n\n线程通信内容。",
+    "knowledgePoints": [
+      "java-kp-0128"
+    ]
   },
   {
     "id": "java-lesson-129",
@@ -2967,7 +3494,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ThreadLocal\n\nThreadLocal内容。",
+    "knowledgePoints": [
+      "java-kp-0129"
+    ]
   },
   {
     "id": "java-lesson-130",
@@ -2988,7 +3519,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ForkJoin\n\nForkJoin内容。",
+    "knowledgePoints": [
+      "java-kp-0130"
+    ]
   },
   {
     "id": "java-lesson-131",
@@ -3009,7 +3544,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CompletableFuture\n\nCompletableFuture内容。",
+    "knowledgePoints": [
+      "java-kp-0131"
+    ]
   },
   {
     "id": "java-lesson-132",
@@ -3030,7 +3569,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SpringBoot项目结构\n\nSpringBoot项目结构内容。",
+    "knowledgePoints": [
+      "java-kp-0132"
+    ]
   },
   {
     "id": "java-lesson-133",
@@ -3051,7 +3594,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# RESTfulAPI\n\nRESTfulAPI内容。",
+    "knowledgePoints": [
+      "java-kp-0133"
+    ]
   },
   {
     "id": "java-lesson-134",
@@ -3072,7 +3619,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Lombok使用\n\nLombok使用内容。",
+    "knowledgePoints": [
+      "java-kp-0134"
+    ]
   },
   {
     "id": "java-lesson-135",
@@ -3093,7 +3644,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JUnit测试\n\nJUnit测试内容。",
+    "knowledgePoints": [
+      "java-kp-0135"
+    ]
   },
   {
     "id": "java-lesson-136",
@@ -3114,7 +3669,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 项目打包\n\n项目打包内容。",
+    "knowledgePoints": [
+      "java-kp-0136"
+    ]
   },
   {
     "id": "java-lesson-137",
@@ -3135,7 +3694,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 复习一语法\n\n复习一语法内容。",
+    "knowledgePoints": [
+      "java-kp-0137"
+    ]
   },
   {
     "id": "java-lesson-138",
@@ -3156,7 +3719,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 复习二OOP\n\n复习二OOP内容。",
+    "knowledgePoints": [
+      "java-kp-0138"
+    ]
   },
   {
     "id": "java-lesson-139",
@@ -3177,7 +3744,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 复习三集合\n\n复习三集合内容。",
+    "knowledgePoints": [
+      "java-kp-0139"
+    ]
   },
   {
     "id": "java-lesson-140",
@@ -3198,7 +3769,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 复习四IO\n\n复习四IO内容。",
+    "knowledgePoints": [
+      "java-kp-0140"
+    ]
   },
   {
     "id": "java-lesson-141",
@@ -3219,7 +3794,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 复习五多线程\n\n复习五多线程内容。",
+    "knowledgePoints": [
+      "java-kp-0141"
+    ]
   },
   {
     "id": "java-lesson-142",
@@ -3240,7 +3819,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 面试题精讲\n\n面试题精讲内容。",
+    "knowledgePoints": [
+      "java-kp-0142"
+    ]
   },
   {
     "id": "java-lesson-143",
@@ -3261,7 +3844,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模拟测试\n\n模拟测试内容。",
+    "knowledgePoints": [
+      "java-kp-0143"
+    ]
   },
   {
     "id": "java-lesson-144",
@@ -3282,7 +3869,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程1\n\n补充课程1内容。",
+    "knowledgePoints": [
+      "java-kp-0144"
+    ]
   },
   {
     "id": "java-lesson-145",
@@ -3303,7 +3894,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程2\n\n补充课程2内容。",
+    "knowledgePoints": [
+      "java-kp-0145"
+    ]
   },
   {
     "id": "java-lesson-146",
@@ -3324,7 +3919,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程3\n\n补充课程3内容。",
+    "knowledgePoints": [
+      "java-kp-0146"
+    ]
   },
   {
     "id": "java-lesson-147",
@@ -3345,7 +3944,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程4\n\n补充课程4内容。",
+    "knowledgePoints": [
+      "java-kp-0147"
+    ]
   },
   {
     "id": "java-lesson-148",
@@ -3366,7 +3969,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程5\n\n补充课程5内容。",
+    "knowledgePoints": [
+      "java-kp-0148"
+    ]
   },
   {
     "id": "java-lesson-149",
@@ -3387,7 +3994,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程6\n\n补充课程6内容。",
+    "knowledgePoints": [
+      "java-kp-0149"
+    ]
   },
   {
     "id": "java-lesson-150",
@@ -3408,7 +4019,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程7\n\n补充课程7内容。",
+    "knowledgePoints": [
+      "java-kp-0150"
+    ]
   },
   {
     "id": "java-lesson-151",
@@ -3429,7 +4044,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程8\n\n补充课程8内容。",
+    "knowledgePoints": [
+      "java-kp-0151"
+    ]
   },
   {
     "id": "java-lesson-152",
@@ -3450,7 +4069,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程9\n\n补充课程9内容。",
+    "knowledgePoints": [
+      "java-kp-0152"
+    ]
   },
   {
     "id": "java-lesson-153",
@@ -3471,7 +4094,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程10\n\n补充课程10内容。",
+    "knowledgePoints": [
+      "java-kp-0153"
+    ]
   },
   {
     "id": "java-lesson-154",
@@ -3492,7 +4119,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程11\n\n补充课程11内容。",
+    "knowledgePoints": [
+      "java-kp-0154"
+    ]
   },
   {
     "id": "java-lesson-155",
@@ -3513,7 +4144,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程12\n\n补充课程12内容。",
+    "knowledgePoints": [
+      "java-kp-0155"
+    ]
   },
   {
     "id": "java-lesson-156",
@@ -3534,7 +4169,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程13\n\n补充课程13内容。",
+    "knowledgePoints": [
+      "java-kp-0156"
+    ]
   },
   {
     "id": "java-lesson-157",
@@ -3555,7 +4194,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程14\n\n补充课程14内容。",
+    "knowledgePoints": [
+      "java-kp-0157"
+    ]
   },
   {
     "id": "java-lesson-158",
@@ -3576,7 +4219,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程15\n\n补充课程15内容。",
+    "knowledgePoints": [
+      "java-kp-0158"
+    ]
   },
   {
     "id": "java-lesson-159",
@@ -3597,7 +4244,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程16\n\n补充课程16内容。",
+    "knowledgePoints": [
+      "java-kp-0159"
+    ]
   },
   {
     "id": "java-lesson-160",
@@ -3618,7 +4269,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程17\n\n补充课程17内容。",
+    "knowledgePoints": [
+      "java-kp-0160"
+    ]
   },
   {
     "id": "java-lesson-161",
@@ -3639,7 +4294,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程18\n\n补充课程18内容。",
+    "knowledgePoints": [
+      "java-kp-0161"
+    ]
   },
   {
     "id": "java-lesson-162",
@@ -3660,7 +4319,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程19\n\n补充课程19内容。",
+    "knowledgePoints": [
+      "java-kp-0162"
+    ]
   },
   {
     "id": "java-lesson-163",
@@ -3681,7 +4344,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程20\n\n补充课程20内容。",
+    "knowledgePoints": [
+      "java-kp-0163"
+    ]
   },
   {
     "id": "java-lesson-164",
@@ -3702,7 +4369,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程21\n\n补充课程21内容。",
+    "knowledgePoints": [
+      "java-kp-0164"
+    ]
   },
   {
     "id": "java-lesson-165",
@@ -3723,7 +4394,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程22\n\n补充课程22内容。",
+    "knowledgePoints": [
+      "java-kp-0165"
+    ]
   },
   {
     "id": "java-lesson-166",
@@ -3744,7 +4419,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程23\n\n补充课程23内容。",
+    "knowledgePoints": [
+      "java-kp-0166"
+    ]
   },
   {
     "id": "java-lesson-167",
@@ -3765,7 +4444,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程24\n\n补充课程24内容。",
+    "knowledgePoints": [
+      "java-kp-0167"
+    ]
   },
   {
     "id": "java-lesson-168",
@@ -3786,7 +4469,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程25\n\n补充课程25内容。",
+    "knowledgePoints": [
+      "java-kp-0168"
+    ]
   },
   {
     "id": "java-lesson-169",
@@ -3807,7 +4494,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程26\n\n补充课程26内容。",
+    "knowledgePoints": [
+      "java-kp-0169"
+    ]
   },
   {
     "id": "java-lesson-170",
@@ -3828,7 +4519,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程27\n\n补充课程27内容。",
+    "knowledgePoints": [
+      "java-kp-0170"
+    ]
   },
   {
     "id": "java-lesson-171",
@@ -3849,7 +4544,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程28\n\n补充课程28内容。",
+    "knowledgePoints": [
+      "java-kp-0171"
+    ]
   },
   {
     "id": "java-lesson-172",
@@ -3870,7 +4569,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程29\n\n补充课程29内容。",
+    "knowledgePoints": [
+      "java-kp-0172"
+    ]
   },
   {
     "id": "java-lesson-173",
@@ -3891,7 +4594,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程30\n\n补充课程30内容。",
+    "knowledgePoints": [
+      "java-kp-0173"
+    ]
   },
   {
     "id": "java-lesson-174",
@@ -3912,7 +4619,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程31\n\n补充课程31内容。",
+    "knowledgePoints": [
+      "java-kp-0174"
+    ]
   },
   {
     "id": "java-lesson-175",
@@ -3933,7 +4644,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程32\n\n补充课程32内容。",
+    "knowledgePoints": [
+      "java-kp-0175"
+    ]
   },
   {
     "id": "java-lesson-176",
@@ -3954,7 +4669,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程33\n\n补充课程33内容。",
+    "knowledgePoints": [
+      "java-kp-0176"
+    ]
   },
   {
     "id": "java-lesson-177",
@@ -3975,7 +4694,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程34\n\n补充课程34内容。",
+    "knowledgePoints": [
+      "java-kp-0177"
+    ]
   },
   {
     "id": "java-lesson-178",
@@ -3996,7 +4719,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程35\n\n补充课程35内容。",
+    "knowledgePoints": [
+      "java-kp-0178"
+    ]
   },
   {
     "id": "java-lesson-179",
@@ -4017,7 +4744,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程36\n\n补充课程36内容。",
+    "knowledgePoints": [
+      "java-kp-0179"
+    ]
   },
   {
     "id": "java-lesson-180",
@@ -4038,7 +4769,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程37\n\n补充课程37内容。",
+    "knowledgePoints": [
+      "java-kp-0180"
+    ]
   },
   {
     "id": "java-lesson-181",
@@ -4059,7 +4794,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程38\n\n补充课程38内容。",
+    "knowledgePoints": [
+      "java-kp-0181"
+    ]
   },
   {
     "id": "java-lesson-182",
@@ -4080,7 +4819,11 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程39\n\n补充课程39内容。",
+    "knowledgePoints": [
+      "java-kp-0182"
+    ]
   },
   {
     "id": "java-lesson-183",
@@ -4101,6 +4844,10 @@
       "Java"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程40\n\n补充课程40内容。",
+    "knowledgePoints": [
+      "java-kp-0183"
+    ]
   }
 ]

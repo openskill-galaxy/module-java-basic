@@ -26,7 +26,15 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-001",
+      "java-lesson-002",
+      "java-lesson-003",
+      "java-lesson-004",
+      "java-lesson-005"
+    ],
+    "summary": "Java概述、JDK安装、IDE配置、HelloWorld、编译运行。"
   },
   {
     "id": "java-course-02",
@@ -54,7 +62,14 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-006",
+      "java-lesson-007",
+      "java-lesson-008",
+      "java-lesson-009"
+    ],
+    "summary": "基本语法、标识符、关键字、注释、数据类型、变量、控制台输入输出。"
   },
   {
     "id": "java-course-03",
@@ -87,7 +102,19 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-010",
+      "java-lesson-011",
+      "java-lesson-012",
+      "java-lesson-013",
+      "java-lesson-014",
+      "java-lesson-015",
+      "java-lesson-016",
+      "java-lesson-017",
+      "java-lesson-018"
+    ],
+    "summary": "基本数据类型、引用类型、类型转换、各种运算符与表达式。"
   },
   {
     "id": "java-course-04",
@@ -118,7 +145,17 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-019",
+      "java-lesson-020",
+      "java-lesson-021",
+      "java-lesson-022",
+      "java-lesson-023",
+      "java-lesson-024",
+      "java-lesson-025"
+    ],
+    "summary": "if/switch选择结构、for/while/do-while循环、break/continue。"
   },
   {
     "id": "java-course-05",
@@ -147,7 +184,15 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-026",
+      "java-lesson-027",
+      "java-lesson-028",
+      "java-lesson-029",
+      "java-lesson-030"
+    ],
+    "summary": "一维二维数组、String/StringBuilder/StringBuffer、常用API。"
   },
   {
     "id": "java-course-06",
@@ -177,7 +222,16 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-031",
+      "java-lesson-032",
+      "java-lesson-033",
+      "java-lesson-034",
+      "java-lesson-035",
+      "java-lesson-036"
+    ],
+    "summary": "方法定义、参数传递、方法重载、递归、可变参数。"
   },
   {
     "id": "java-course-07",
@@ -207,7 +261,16 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-037",
+      "java-lesson-038",
+      "java-lesson-039",
+      "java-lesson-040",
+      "java-lesson-041",
+      "java-lesson-042"
+    ],
+    "summary": "类与对象、构造方法、封装、this、static、package与import。"
   },
   {
     "id": "java-course-08",
@@ -238,7 +301,17 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-043",
+      "java-lesson-044",
+      "java-lesson-045",
+      "java-lesson-046",
+      "java-lesson-047",
+      "java-lesson-048",
+      "java-lesson-049"
+    ],
+    "summary": "继承、super、重写、多态、final、抽象类、Object类。"
   },
   {
     "id": "java-course-09",
@@ -268,7 +341,16 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-050",
+      "java-lesson-051",
+      "java-lesson-052",
+      "java-lesson-053",
+      "java-lesson-054",
+      "java-lesson-055"
+    ],
+    "summary": "接口定义实现、lambda接口、内部类、包装类、日期类。"
   },
   {
     "id": "java-course-10",
@@ -298,7 +380,16 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-056",
+      "java-lesson-057",
+      "java-lesson-058",
+      "java-lesson-059",
+      "java-lesson-060",
+      "java-lesson-061"
+    ],
+    "summary": "异常分类、try-catch-finally、throws、自定义异常、try-with-resources。"
   },
   {
     "id": "java-course-11",
@@ -331,7 +422,19 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-062",
+      "java-lesson-063",
+      "java-lesson-064",
+      "java-lesson-065",
+      "java-lesson-066",
+      "java-lesson-067",
+      "java-lesson-068",
+      "java-lesson-069",
+      "java-lesson-070"
+    ],
+    "summary": "ArrayList/LinkedList/HashMap/HashSet/TreeMap、泛型、迭代器、Collections工具类。"
   },
   {
     "id": "java-course-12",
@@ -362,7 +465,17 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-071",
+      "java-lesson-072",
+      "java-lesson-073",
+      "java-lesson-074",
+      "java-lesson-075",
+      "java-lesson-076",
+      "java-lesson-077"
+    ],
+    "summary": "字节流字符流、缓冲流、转换流、对象流、NIO入门、File类。"
   },
   {
     "id": "java-course-13",
@@ -394,7 +507,18 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-078",
+      "java-lesson-079",
+      "java-lesson-080",
+      "java-lesson-081",
+      "java-lesson-082",
+      "java-lesson-083",
+      "java-lesson-084",
+      "java-lesson-085"
+    ],
+    "summary": "Thread/Runnable、线程池、synchronized、Lock、并发工具、线程安全。"
   },
   {
     "id": "java-course-14",
@@ -429,6 +553,20 @@
       "会用集合框架",
       "具备后端基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "java-lesson-086",
+      "java-lesson-087",
+      "java-lesson-088",
+      "java-lesson-089",
+      "java-lesson-090",
+      "java-lesson-091",
+      "java-lesson-092",
+      "java-lesson-093",
+      "java-lesson-094",
+      "java-lesson-095",
+      "java-lesson-096"
+    ],
+    "summary": "JDBC、Maven、项目结构、学生管理系统、后端基础与面试。"
   }
 ]

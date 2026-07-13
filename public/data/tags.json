@@ -5,7 +5,8 @@
     "category": "Java",
     "description": "Java标签：Java",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "java"
   },
   {
     "id": "java-tag-002",
@@ -13,7 +14,8 @@
     "category": "Java",
     "description": "Java标签：JDK",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jdk"
   },
   {
     "id": "java-tag-003",
@@ -21,7 +23,8 @@
     "category": "Java",
     "description": "Java标签：JRE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jre"
   },
   {
     "id": "java-tag-004",
@@ -29,7 +32,8 @@
     "category": "Java",
     "description": "Java标签：JVM",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jvm"
   },
   {
     "id": "java-tag-005",
@@ -37,7 +41,8 @@
     "category": "Java",
     "description": "Java标签：javac",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "javac"
   },
   {
     "id": "java-tag-006",
@@ -45,7 +50,8 @@
     "category": "Java",
     "description": "Java标签：java",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "java"
   },
   {
     "id": "java-tag-007",
@@ -53,7 +59,8 @@
     "category": "Java",
     "description": "Java标签：main",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "main"
   },
   {
     "id": "java-tag-008",
@@ -61,7 +68,8 @@
     "category": "Java",
     "description": "Java标签：package",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "package"
   },
   {
     "id": "java-tag-009",
@@ -69,7 +77,8 @@
     "category": "Java",
     "description": "Java标签：import",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "import"
   },
   {
     "id": "java-tag-010",
@@ -77,7 +86,8 @@
     "category": "Java",
     "description": "Java标签：class",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "class"
   },
   {
     "id": "java-tag-011",
@@ -85,7 +95,8 @@
     "category": "Java",
     "description": "Java标签：object",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "object"
   },
   {
     "id": "java-tag-012",
@@ -93,7 +104,8 @@
     "category": "Java",
     "description": "Java标签：new",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "new"
   },
   {
     "id": "java-tag-013",
@@ -101,7 +113,8 @@
     "category": "Java",
     "description": "Java标签：this",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "this"
   },
   {
     "id": "java-tag-014",
@@ -109,7 +122,8 @@
     "category": "Java",
     "description": "Java标签：super",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "super"
   },
   {
     "id": "java-tag-015",
@@ -117,7 +131,8 @@
     "category": "Java",
     "description": "Java标签：static",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "static"
   },
   {
     "id": "java-tag-016",
@@ -125,7 +140,8 @@
     "category": "Java",
     "description": "Java标签：final",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "final"
   },
   {
     "id": "java-tag-017",
@@ -133,7 +149,8 @@
     "category": "Java",
     "description": "Java标签：public",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "public"
   },
   {
     "id": "java-tag-018",
@@ -141,7 +158,8 @@
     "category": "Java",
     "description": "Java标签：private",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "private"
   },
   {
     "id": "java-tag-019",
@@ -149,7 +167,8 @@
     "category": "Java",
     "description": "Java标签：protected",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "protected"
   },
   {
     "id": "java-tag-020",
@@ -157,7 +176,8 @@
     "category": "Java",
     "description": "Java标签：default",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "default"
   },
   {
     "id": "java-tag-021",
@@ -165,7 +185,8 @@
     "category": "Java",
     "description": "Java标签：abstract",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "abstract"
   },
   {
     "id": "java-tag-022",
@@ -173,7 +194,8 @@
     "category": "Java",
     "description": "Java标签：interface",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "interface"
   },
   {
     "id": "java-tag-023",
@@ -181,7 +203,8 @@
     "category": "Java",
     "description": "Java标签：extends",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "extends"
   },
   {
     "id": "java-tag-024",
@@ -189,7 +212,8 @@
     "category": "Java",
     "description": "Java标签：implements",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "implements"
   },
   {
     "id": "java-tag-025",
@@ -197,7 +221,8 @@
     "category": "Java",
     "description": "Java标签：throws",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "throws"
   },
   {
     "id": "java-tag-026",
@@ -205,7 +230,8 @@
     "category": "Java",
     "description": "Java标签：throw",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "throw"
   },
   {
     "id": "java-tag-027",
@@ -213,7 +239,8 @@
     "category": "Java",
     "description": "Java标签：try",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "try"
   },
   {
     "id": "java-tag-028",
@@ -221,7 +248,8 @@
     "category": "Java",
     "description": "Java标签：catch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "catch"
   },
   {
     "id": "java-tag-029",
@@ -229,7 +257,8 @@
     "category": "Java",
     "description": "Java标签：finally",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "finally"
   },
   {
     "id": "java-tag-030",
@@ -237,7 +266,8 @@
     "category": "Java",
     "description": "Java标签：return",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "return"
   },
   {
     "id": "java-tag-031",
@@ -245,7 +275,8 @@
     "category": "Java",
     "description": "Java标签：void",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "void"
   },
   {
     "id": "java-tag-032",
@@ -253,7 +284,8 @@
     "category": "Java",
     "description": "Java标签：null",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "null"
   },
   {
     "id": "java-tag-033",
@@ -261,7 +293,8 @@
     "category": "Java",
     "description": "Java标签：instanceof",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "instanceof"
   },
   {
     "id": "java-tag-034",
@@ -269,7 +302,8 @@
     "category": "Java",
     "description": "Java标签：synchronized",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "synchronized"
   },
   {
     "id": "java-tag-035",
@@ -277,7 +311,8 @@
     "category": "Java",
     "description": "Java标签：volatile",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "volatile"
   },
   {
     "id": "java-tag-036",
@@ -285,7 +320,8 @@
     "category": "Java",
     "description": "Java标签：transient",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "transient"
   },
   {
     "id": "java-tag-037",
@@ -293,7 +329,8 @@
     "category": "Java",
     "description": "Java标签：native",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "native"
   },
   {
     "id": "java-tag-038",
@@ -301,7 +338,8 @@
     "category": "Java",
     "description": "Java标签：strictfp",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "strictfp"
   },
   {
     "id": "java-tag-039",
@@ -309,7 +347,8 @@
     "category": "Java",
     "description": "Java标签：byte",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "byte"
   },
   {
     "id": "java-tag-040",
@@ -317,7 +356,8 @@
     "category": "Java",
     "description": "Java标签：short",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "short"
   },
   {
     "id": "java-tag-041",
@@ -325,7 +365,8 @@
     "category": "Java",
     "description": "Java标签：int",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "int"
   },
   {
     "id": "java-tag-042",
@@ -333,7 +374,8 @@
     "category": "Java",
     "description": "Java标签：long",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "long"
   },
   {
     "id": "java-tag-043",
@@ -341,7 +383,8 @@
     "category": "Java",
     "description": "Java标签：float",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "float"
   },
   {
     "id": "java-tag-044",
@@ -349,7 +392,8 @@
     "category": "Java",
     "description": "Java标签：double",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "double"
   },
   {
     "id": "java-tag-045",
@@ -357,7 +401,8 @@
     "category": "Java",
     "description": "Java标签：char",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "char"
   },
   {
     "id": "java-tag-046",
@@ -365,7 +410,8 @@
     "category": "Java",
     "description": "Java标签：boolean",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "boolean"
   },
   {
     "id": "java-tag-047",
@@ -373,7 +419,8 @@
     "category": "Java",
     "description": "Java标签：String",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "string"
   },
   {
     "id": "java-tag-048",
@@ -381,7 +428,8 @@
     "category": "Java",
     "description": "Java标签：StringBuilder",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "stringbuilder"
   },
   {
     "id": "java-tag-049",
@@ -389,7 +437,8 @@
     "category": "Java",
     "description": "Java标签：StringBuffer",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "stringbuffer"
   },
   {
     "id": "java-tag-050",
@@ -397,7 +446,8 @@
     "category": "Java",
     "description": "Java标签：Arrays",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "arrays"
   },
   {
     "id": "java-tag-051",
@@ -405,7 +455,8 @@
     "category": "Java",
     "description": "Java标签：Math",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "math"
   },
   {
     "id": "java-tag-052",
@@ -413,7 +464,8 @@
     "category": "Java",
     "description": "Java标签：Scanner",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "scanner"
   },
   {
     "id": "java-tag-053",
@@ -421,7 +473,8 @@
     "category": "Java",
     "description": "Java标签：System",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "system"
   },
   {
     "id": "java-tag-054",
@@ -429,7 +482,8 @@
     "category": "Java",
     "description": "Java标签：Object",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "object"
   },
   {
     "id": "java-tag-055",
@@ -437,7 +491,8 @@
     "category": "Java",
     "description": "Java标签：equals",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "equals"
   },
   {
     "id": "java-tag-056",
@@ -445,7 +500,8 @@
     "category": "Java",
     "description": "Java标签：hashCode",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "hashcode"
   },
   {
     "id": "java-tag-057",
@@ -453,7 +509,8 @@
     "category": "Java",
     "description": "Java标签：toString",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "tostring"
   },
   {
     "id": "java-tag-058",
@@ -461,7 +518,8 @@
     "category": "Java",
     "description": "Java标签：getClass",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "getclass"
   },
   {
     "id": "java-tag-059",
@@ -469,7 +527,8 @@
     "category": "Java",
     "description": "Java标签：clone",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "clone"
   },
   {
     "id": "java-tag-060",
@@ -477,7 +536,8 @@
     "category": "Java",
     "description": "Java标签：finalize",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "finalize"
   },
   {
     "id": "java-tag-061",
@@ -485,7 +545,8 @@
     "category": "Java",
     "description": "Java标签：notify",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "notify"
   },
   {
     "id": "java-tag-062",
@@ -493,7 +554,8 @@
     "category": "Java",
     "description": "Java标签：wait",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "wait"
   },
   {
     "id": "java-tag-063",
@@ -501,7 +563,8 @@
     "category": "Java",
     "description": "Java标签：包装类",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "包装类"
   },
   {
     "id": "java-tag-064",
@@ -509,7 +572,8 @@
     "category": "Java",
     "description": "Java标签：Integer",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "integer"
   },
   {
     "id": "java-tag-065",
@@ -517,7 +581,8 @@
     "category": "Java",
     "description": "Java标签：Long",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "long"
   },
   {
     "id": "java-tag-066",
@@ -525,7 +590,8 @@
     "category": "Java",
     "description": "Java标签：Double",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "double"
   },
   {
     "id": "java-tag-067",
@@ -533,7 +599,8 @@
     "category": "Java",
     "description": "Java标签：Boolean",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "boolean"
   },
   {
     "id": "java-tag-068",
@@ -541,7 +608,8 @@
     "category": "Java",
     "description": "Java标签：Character",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "character"
   },
   {
     "id": "java-tag-069",
@@ -549,7 +617,8 @@
     "category": "Java",
     "description": "Java标签：Short",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "short"
   },
   {
     "id": "java-tag-070",
@@ -557,7 +626,8 @@
     "category": "Java",
     "description": "Java标签：Byte",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "byte"
   },
   {
     "id": "java-tag-071",
@@ -565,7 +635,8 @@
     "category": "Java",
     "description": "Java标签：Float",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "float"
   },
   {
     "id": "java-tag-072",
@@ -573,7 +644,8 @@
     "category": "Java",
     "description": "Java标签：自动装箱",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自动装箱"
   },
   {
     "id": "java-tag-073",
@@ -581,7 +653,8 @@
     "category": "Java",
     "description": "Java标签：自动拆箱",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自动拆箱"
   },
   {
     "id": "java-tag-074",
@@ -589,7 +662,8 @@
     "category": "Java",
     "description": "Java标签：泛型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "泛型"
   },
   {
     "id": "java-tag-075",
@@ -597,7 +671,8 @@
     "category": "Java",
     "description": "Java标签：泛型类",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "泛型类"
   },
   {
     "id": "java-tag-076",
@@ -605,7 +680,8 @@
     "category": "Java",
     "description": "Java标签：泛型方法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "泛型方法"
   },
   {
     "id": "java-tag-077",
@@ -613,7 +689,8 @@
     "category": "Java",
     "description": "Java标签：通配符",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "通配符"
   },
   {
     "id": "java-tag-078",
@@ -621,7 +698,8 @@
     "category": "Java",
     "description": "Java标签：上限",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "上限"
   },
   {
     "id": "java-tag-079",
@@ -629,7 +707,8 @@
     "category": "Java",
     "description": "Java标签：extends",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "extends"
   },
   {
     "id": "java-tag-080",
@@ -637,7 +716,8 @@
     "category": "Java",
     "description": "Java标签：下限",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "下限"
   },
   {
     "id": "java-tag-081",
@@ -645,7 +725,8 @@
     "category": "Java",
     "description": "Java标签：super",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "super"
   },
   {
     "id": "java-tag-082",
@@ -653,7 +734,8 @@
     "category": "Java",
     "description": "Java标签：类型擦除",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "类型擦除"
   },
   {
     "id": "java-tag-083",
@@ -661,7 +743,8 @@
     "category": "Java",
     "description": "Java标签：集合",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "集合"
   },
   {
     "id": "java-tag-084",
@@ -669,7 +752,8 @@
     "category": "Java",
     "description": "Java标签：Collection",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "collection"
   },
   {
     "id": "java-tag-085",
@@ -677,7 +761,8 @@
     "category": "Java",
     "description": "Java标签：List",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "list"
   },
   {
     "id": "java-tag-086",
@@ -685,7 +770,8 @@
     "category": "Java",
     "description": "Java标签：Set",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "set"
   },
   {
     "id": "java-tag-087",
@@ -693,7 +779,8 @@
     "category": "Java",
     "description": "Java标签：Map",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "map"
   },
   {
     "id": "java-tag-088",
@@ -701,7 +788,8 @@
     "category": "Java",
     "description": "Java标签：ArrayList",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "arraylist"
   },
   {
     "id": "java-tag-089",
@@ -709,7 +797,8 @@
     "category": "Java",
     "description": "Java标签：LinkedList",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "linkedlist"
   },
   {
     "id": "java-tag-090",
@@ -717,7 +806,8 @@
     "category": "Java",
     "description": "Java标签：Vector",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "vector"
   },
   {
     "id": "java-tag-091",
@@ -725,7 +815,8 @@
     "category": "Java",
     "description": "Java标签：Stack",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "stack"
   },
   {
     "id": "java-tag-092",
@@ -733,7 +824,8 @@
     "category": "Java",
     "description": "Java标签：HashSet",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "hashset"
   },
   {
     "id": "java-tag-093",
@@ -741,7 +833,8 @@
     "category": "Java",
     "description": "Java标签：LinkedHashSet",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "linkedhashset"
   },
   {
     "id": "java-tag-094",
@@ -749,7 +842,8 @@
     "category": "Java",
     "description": "Java标签：TreeSet",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "treeset"
   },
   {
     "id": "java-tag-095",
@@ -757,7 +851,8 @@
     "category": "Java",
     "description": "Java标签：HashMap",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "hashmap"
   },
   {
     "id": "java-tag-096",
@@ -765,7 +860,8 @@
     "category": "Java",
     "description": "Java标签：LinkedHashMap",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "linkedhashmap"
   },
   {
     "id": "java-tag-097",
@@ -773,7 +869,8 @@
     "category": "Java",
     "description": "Java标签：TreeMap",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "treemap"
   },
   {
     "id": "java-tag-098",
@@ -781,7 +878,8 @@
     "category": "Java",
     "description": "Java标签：Hashtable",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "hashtable"
   },
   {
     "id": "java-tag-099",
@@ -789,7 +887,8 @@
     "category": "Java",
     "description": "Java标签：ConcurrentHashMap",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "concurrenthashmap"
   },
   {
     "id": "java-tag-100",
@@ -797,7 +896,8 @@
     "category": "Java",
     "description": "Java标签：迭代器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "迭代器"
   },
   {
     "id": "java-tag-101",
@@ -805,7 +905,8 @@
     "category": "Java",
     "description": "Java标签：Iterator",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "iterator"
   },
   {
     "id": "java-tag-102",
@@ -813,7 +914,8 @@
     "category": "Java",
     "description": "Java标签：增强for",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "增强for"
   },
   {
     "id": "java-tag-103",
@@ -821,7 +923,8 @@
     "category": "Java",
     "description": "Java标签：forEach",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "foreach"
   },
   {
     "id": "java-tag-104",
@@ -829,7 +932,8 @@
     "category": "Java",
     "description": "Java标签：Comparable",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "comparable"
   },
   {
     "id": "java-tag-105",
@@ -837,7 +941,8 @@
     "category": "Java",
     "description": "Java标签：Comparator",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "comparator"
   },
   {
     "id": "java-tag-106",
@@ -845,7 +950,8 @@
     "category": "Java",
     "description": "Java标签：Collections",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "collections"
   },
   {
     "id": "java-tag-107",
@@ -853,7 +959,8 @@
     "category": "Java",
     "description": "Java标签：Arrays",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "arrays"
   },
   {
     "id": "java-tag-108",
@@ -861,7 +968,8 @@
     "category": "Java",
     "description": "Java标签：工具类",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "工具类"
   },
   {
     "id": "java-tag-109",
@@ -869,7 +977,8 @@
     "category": "Java",
     "description": "Java标签：异常",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "异常"
   },
   {
     "id": "java-tag-110",
@@ -877,7 +986,8 @@
     "category": "Java",
     "description": "Java标签：Error",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "error"
   },
   {
     "id": "java-tag-111",
@@ -885,7 +995,8 @@
     "category": "Java",
     "description": "Java标签：Exception",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "exception"
   },
   {
     "id": "java-tag-112",
@@ -893,7 +1004,8 @@
     "category": "Java",
     "description": "Java标签：RuntimeException",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "runtimeexception"
   },
   {
     "id": "java-tag-113",
@@ -901,7 +1013,8 @@
     "category": "Java",
     "description": "Java标签：CheckedException",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "checkedexception"
   },
   {
     "id": "java-tag-114",
@@ -909,7 +1022,8 @@
     "category": "Java",
     "description": "Java标签：UncheckedException",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "uncheckedexception"
   },
   {
     "id": "java-tag-115",
@@ -917,7 +1031,8 @@
     "category": "Java",
     "description": "Java标签：NullPointerException",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "nullpointerexception"
   },
   {
     "id": "java-tag-116",
@@ -925,7 +1040,8 @@
     "category": "Java",
     "description": "Java标签：ArrayIndexOutOfBounds",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "arrayindexoutofbounds"
   },
   {
     "id": "java-tag-117",
@@ -933,7 +1049,8 @@
     "category": "Java",
     "description": "Java标签：ArithmeticException",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "arithmeticexception"
   },
   {
     "id": "java-tag-118",
@@ -941,7 +1058,8 @@
     "category": "Java",
     "description": "Java标签：ClassCastException",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "classcastexception"
   },
   {
     "id": "java-tag-119",
@@ -949,7 +1067,8 @@
     "category": "Java",
     "description": "Java标签：IOException",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "ioexception"
   },
   {
     "id": "java-tag-120",
@@ -957,7 +1076,8 @@
     "category": "Java",
     "description": "Java标签：FileNotFoundException",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "filenotfoundexception"
   },
   {
     "id": "java-tag-121",
@@ -965,7 +1085,8 @@
     "category": "Java",
     "description": "Java标签：SQLException",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sqlexception"
   },
   {
     "id": "java-tag-122",
@@ -973,7 +1094,8 @@
     "category": "Java",
     "description": "Java标签：ClassNotFoundException",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "classnotfoundexception"
   },
   {
     "id": "java-tag-123",
@@ -981,7 +1103,8 @@
     "category": "Java",
     "description": "Java标签：自定义异常",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自定义异常"
   },
   {
     "id": "java-tag-124",
@@ -989,7 +1112,8 @@
     "category": "Java",
     "description": "Java标签：try-catch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "try-catch"
   },
   {
     "id": "java-tag-125",
@@ -997,7 +1121,8 @@
     "category": "Java",
     "description": "Java标签：finally",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "finally"
   },
   {
     "id": "java-tag-126",
@@ -1005,7 +1130,8 @@
     "category": "Java",
     "description": "Java标签：try-with-resources",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "try-with-resources"
   },
   {
     "id": "java-tag-127",
@@ -1013,7 +1139,8 @@
     "category": "Java",
     "description": "Java标签：多catch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多catch"
   },
   {
     "id": "java-tag-128",
@@ -1021,7 +1148,8 @@
     "category": "Java",
     "description": "Java标签：throws",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "throws"
   },
   {
     "id": "java-tag-129",
@@ -1029,7 +1157,8 @@
     "category": "Java",
     "description": "Java标签：throw",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "throw"
   },
   {
     "id": "java-tag-130",
@@ -1037,7 +1166,8 @@
     "category": "Java",
     "description": "Java标签：异常链",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "异常链"
   },
   {
     "id": "java-tag-131",
@@ -1045,7 +1175,8 @@
     "category": "Java",
     "description": "Java标签：断言",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "断言"
   },
   {
     "id": "java-tag-132",
@@ -1053,7 +1184,8 @@
     "category": "Java",
     "description": "Java标签：assert",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "assert"
   },
   {
     "id": "java-tag-133",
@@ -1061,7 +1193,8 @@
     "category": "Java",
     "description": "Java标签：日志",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "日志"
   },
   {
     "id": "java-tag-134",
@@ -1069,7 +1202,8 @@
     "category": "Java",
     "description": "Java标签：Log4j",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "log4j"
   },
   {
     "id": "java-tag-135",
@@ -1077,7 +1211,8 @@
     "category": "Java",
     "description": "Java标签：SLF4J",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "slf4j"
   },
   {
     "id": "java-tag-136",
@@ -1085,7 +1220,8 @@
     "category": "Java",
     "description": "Java标签：Logback",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "logback"
   },
   {
     "id": "java-tag-137",
@@ -1093,7 +1229,8 @@
     "category": "Java",
     "description": "Java标签：输入输出",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "输入输出"
   },
   {
     "id": "java-tag-138",
@@ -1101,7 +1238,8 @@
     "category": "Java",
     "description": "Java标签：IO流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "io流"
   },
   {
     "id": "java-tag-139",
@@ -1109,7 +1247,8 @@
     "category": "Java",
     "description": "Java标签：字节流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "字节流"
   },
   {
     "id": "java-tag-140",
@@ -1117,7 +1256,8 @@
     "category": "Java",
     "description": "Java标签：InputStream",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "inputstream"
   },
   {
     "id": "java-tag-141",
@@ -1125,7 +1265,8 @@
     "category": "Java",
     "description": "Java标签：OutputStream",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "outputstream"
   },
   {
     "id": "java-tag-142",
@@ -1133,7 +1274,8 @@
     "category": "Java",
     "description": "Java标签：FileInputStream",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "fileinputstream"
   },
   {
     "id": "java-tag-143",
@@ -1141,7 +1283,8 @@
     "category": "Java",
     "description": "Java标签：FileOutputStream",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "fileoutputstream"
   },
   {
     "id": "java-tag-144",
@@ -1149,7 +1292,8 @@
     "category": "Java",
     "description": "Java标签：字符流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "字符流"
   },
   {
     "id": "java-tag-145",
@@ -1157,7 +1301,8 @@
     "category": "Java",
     "description": "Java标签：Reader",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "reader"
   },
   {
     "id": "java-tag-146",
@@ -1165,7 +1310,8 @@
     "category": "Java",
     "description": "Java标签：Writer",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "writer"
   },
   {
     "id": "java-tag-147",
@@ -1173,7 +1319,8 @@
     "category": "Java",
     "description": "Java标签：FileReader",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "filereader"
   },
   {
     "id": "java-tag-148",
@@ -1181,7 +1328,8 @@
     "category": "Java",
     "description": "Java标签：FileWriter",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "filewriter"
   },
   {
     "id": "java-tag-149",
@@ -1189,7 +1337,8 @@
     "category": "Java",
     "description": "Java标签：缓冲流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "缓冲流"
   },
   {
     "id": "java-tag-150",
@@ -1197,7 +1346,8 @@
     "category": "Java",
     "description": "Java标签：BufferedInputStream",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bufferedinputstream"
   },
   {
     "id": "java-tag-151",
@@ -1205,7 +1355,8 @@
     "category": "Java",
     "description": "Java标签：BufferedOutputStream",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bufferedoutputstream"
   },
   {
     "id": "java-tag-152",
@@ -1213,7 +1364,8 @@
     "category": "Java",
     "description": "Java标签：BufferedReader",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bufferedreader"
   },
   {
     "id": "java-tag-153",
@@ -1221,7 +1373,8 @@
     "category": "Java",
     "description": "Java标签：BufferedWriter",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bufferedwriter"
   },
   {
     "id": "java-tag-154",
@@ -1229,7 +1382,8 @@
     "category": "Java",
     "description": "Java标签：转换流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "转换流"
   },
   {
     "id": "java-tag-155",
@@ -1237,7 +1391,8 @@
     "category": "Java",
     "description": "Java标签：InputStreamReader",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "inputstreamreader"
   },
   {
     "id": "java-tag-156",
@@ -1245,7 +1400,8 @@
     "category": "Java",
     "description": "Java标签：OutputStreamWriter",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "outputstreamwriter"
   },
   {
     "id": "java-tag-157",
@@ -1253,7 +1409,8 @@
     "category": "Java",
     "description": "Java标签：数据流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据流"
   },
   {
     "id": "java-tag-158",
@@ -1261,7 +1418,8 @@
     "category": "Java",
     "description": "Java标签：DataInputStream",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "datainputstream"
   },
   {
     "id": "java-tag-159",
@@ -1269,7 +1427,8 @@
     "category": "Java",
     "description": "Java标签：DataOutputStream",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "dataoutputstream"
   },
   {
     "id": "java-tag-160",
@@ -1277,7 +1436,8 @@
     "category": "Java",
     "description": "Java标签：对象流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对象流"
   },
   {
     "id": "java-tag-161",
@@ -1285,7 +1445,8 @@
     "category": "Java",
     "description": "Java标签：ObjectInputStream",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "objectinputstream"
   },
   {
     "id": "java-tag-162",
@@ -1293,7 +1454,8 @@
     "category": "Java",
     "description": "Java标签：ObjectOutputStream",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "objectoutputstream"
   },
   {
     "id": "java-tag-163",
@@ -1301,7 +1463,8 @@
     "category": "Java",
     "description": "Java标签：序列化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "序列化"
   },
   {
     "id": "java-tag-164",
@@ -1309,7 +1472,8 @@
     "category": "Java",
     "description": "Java标签：Serializable",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "serializable"
   },
   {
     "id": "java-tag-165",
@@ -1317,7 +1481,8 @@
     "category": "Java",
     "description": "Java标签：transient",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "transient"
   },
   {
     "id": "java-tag-166",
@@ -1325,7 +1490,8 @@
     "category": "Java",
     "description": "Java标签：关键字",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "关键字"
   },
   {
     "id": "java-tag-167",
@@ -1333,7 +1499,8 @@
     "category": "Java",
     "description": "Java标签：打印流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "打印流"
   },
   {
     "id": "java-tag-168",
@@ -1341,7 +1508,8 @@
     "category": "Java",
     "description": "Java标签：PrintStream",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "printstream"
   },
   {
     "id": "java-tag-169",
@@ -1349,7 +1517,8 @@
     "category": "Java",
     "description": "Java标签：PrintWriter",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "printwriter"
   },
   {
     "id": "java-tag-170",
@@ -1357,7 +1526,8 @@
     "category": "Java",
     "description": "Java标签：File文件类",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "file文件类"
   },
   {
     "id": "java-tag-171",
@@ -1365,7 +1535,8 @@
     "category": "Java",
     "description": "Java标签：路径",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "路径"
   },
   {
     "id": "java-tag-172",
@@ -1373,7 +1544,8 @@
     "category": "Java",
     "description": "Java标签：文件过滤",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "文件过滤"
   },
   {
     "id": "java-tag-173",
@@ -1381,7 +1553,8 @@
     "category": "Java",
     "description": "Java标签：递归遍历",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "递归遍历"
   },
   {
     "id": "java-tag-174",
@@ -1389,7 +1562,8 @@
     "category": "Java",
     "description": "Java标签：NIO",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "nio"
   },
   {
     "id": "java-tag-175",
@@ -1397,7 +1571,8 @@
     "category": "Java",
     "description": "Java标签：Buffer",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "buffer"
   },
   {
     "id": "java-tag-176",
@@ -1405,7 +1580,8 @@
     "category": "Java",
     "description": "Java标签：Channel",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "channel"
   },
   {
     "id": "java-tag-177",
@@ -1413,7 +1589,8 @@
     "category": "Java",
     "description": "Java标签：Selector",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "selector"
   },
   {
     "id": "java-tag-178",
@@ -1421,7 +1598,8 @@
     "category": "Java",
     "description": "Java标签：Path",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "path"
   },
   {
     "id": "java-tag-179",
@@ -1429,7 +1607,8 @@
     "category": "Java",
     "description": "Java标签：Files",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "files"
   },
   {
     "id": "java-tag-180",
@@ -1437,7 +1616,8 @@
     "category": "Java",
     "description": "Java标签：FileChannel",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "filechannel"
   },
   {
     "id": "java-tag-181",
@@ -1445,7 +1625,8 @@
     "category": "Java",
     "description": "Java标签：ByteBuffer",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bytebuffer"
   },
   {
     "id": "java-tag-182",
@@ -1453,7 +1634,8 @@
     "category": "Java",
     "description": "Java标签：多线程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多线程"
   },
   {
     "id": "java-tag-183",
@@ -1461,7 +1643,8 @@
     "category": "Java",
     "description": "Java标签：线程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线程"
   },
   {
     "id": "java-tag-184",
@@ -1469,7 +1652,8 @@
     "category": "Java",
     "description": "Java标签：Thread",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "thread"
   },
   {
     "id": "java-tag-185",
@@ -1477,7 +1661,8 @@
     "category": "Java",
     "description": "Java标签：Runnable",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "runnable"
   },
   {
     "id": "java-tag-186",
@@ -1485,7 +1670,8 @@
     "category": "Java",
     "description": "Java标签：Callable",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "callable"
   },
   {
     "id": "java-tag-187",
@@ -1493,7 +1679,8 @@
     "category": "Java",
     "description": "Java标签：Future",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "future"
   },
   {
     "id": "java-tag-188",
@@ -1501,7 +1688,8 @@
     "category": "Java",
     "description": "Java标签：FutureTask",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "futuretask"
   },
   {
     "id": "java-tag-189",
@@ -1509,7 +1697,8 @@
     "category": "Java",
     "description": "Java标签：线程池",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线程池"
   },
   {
     "id": "java-tag-190",
@@ -1517,7 +1706,8 @@
     "category": "Java",
     "description": "Java标签：Executor",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "executor"
   },
   {
     "id": "java-tag-191",
@@ -1525,7 +1715,8 @@
     "category": "Java",
     "description": "Java标签：ExecutorService",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "executorservice"
   },
   {
     "id": "java-tag-192",
@@ -1533,7 +1724,8 @@
     "category": "Java",
     "description": "Java标签：Executors",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "executors"
   },
   {
     "id": "java-tag-193",
@@ -1541,7 +1733,8 @@
     "category": "Java",
     "description": "Java标签：ThreadPoolExecutor",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "threadpoolexecutor"
   },
   {
     "id": "java-tag-194",
@@ -1549,7 +1742,8 @@
     "category": "Java",
     "description": "Java标签：ScheduledExecutorService",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "scheduledexecutorservice"
   },
   {
     "id": "java-tag-195",
@@ -1557,7 +1751,8 @@
     "category": "Java",
     "description": "Java标签：线程安全",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线程安全"
   },
   {
     "id": "java-tag-196",
@@ -1565,7 +1760,8 @@
     "category": "Java",
     "description": "Java标签：synchronized",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "synchronized"
   },
   {
     "id": "java-tag-197",
@@ -1573,7 +1769,8 @@
     "category": "Java",
     "description": "Java标签：Lock",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lock"
   },
   {
     "id": "java-tag-198",
@@ -1581,7 +1778,8 @@
     "category": "Java",
     "description": "Java标签：ReentrantLock",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "reentrantlock"
   },
   {
     "id": "java-tag-199",
@@ -1589,7 +1787,8 @@
     "category": "Java",
     "description": "Java标签：ReadWriteLock",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "readwritelock"
   },
   {
     "id": "java-tag-200",
@@ -1597,7 +1796,8 @@
     "category": "Java",
     "description": "Java标签：StampedLock",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "stampedlock"
   },
   {
     "id": "java-tag-201",
@@ -1605,7 +1805,8 @@
     "category": "Java",
     "description": "Java标签：原子类",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "原子类"
   },
   {
     "id": "java-tag-202",
@@ -1613,7 +1814,8 @@
     "category": "Java",
     "description": "Java标签：AtomicInteger",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "atomicinteger"
   },
   {
     "id": "java-tag-203",
@@ -1621,7 +1823,8 @@
     "category": "Java",
     "description": "Java标签：AtomicLong",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "atomiclong"
   },
   {
     "id": "java-tag-204",
@@ -1629,7 +1832,8 @@
     "category": "Java",
     "description": "Java标签：AtomicReference",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "atomicreference"
   },
   {
     "id": "java-tag-205",
@@ -1637,7 +1841,8 @@
     "category": "Java",
     "description": "Java标签：volatile",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "volatile"
   },
   {
     "id": "java-tag-206",
@@ -1645,7 +1850,8 @@
     "category": "Java",
     "description": "Java标签：可见性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "可见性"
   },
   {
     "id": "java-tag-207",
@@ -1653,7 +1859,8 @@
     "category": "Java",
     "description": "Java标签：有序性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "有序性"
   },
   {
     "id": "java-tag-208",
@@ -1661,7 +1868,8 @@
     "category": "Java",
     "description": "Java标签：重排序",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "重排序"
   },
   {
     "id": "java-tag-209",
@@ -1669,7 +1877,8 @@
     "category": "Java",
     "description": "Java标签：happens-before",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "happens-before"
   },
   {
     "id": "java-tag-210",
@@ -1677,7 +1886,8 @@
     "category": "Java",
     "description": "Java标签：线程通信",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线程通信"
   },
   {
     "id": "java-tag-211",
@@ -1685,7 +1895,8 @@
     "category": "Java",
     "description": "Java标签：wait",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "wait"
   },
   {
     "id": "java-tag-212",
@@ -1693,7 +1904,8 @@
     "category": "Java",
     "description": "Java标签：notify",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "notify"
   },
   {
     "id": "java-tag-213",
@@ -1701,7 +1913,8 @@
     "category": "Java",
     "description": "Java标签：notifyAll",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "notifyall"
   },
   {
     "id": "java-tag-214",
@@ -1709,7 +1922,8 @@
     "category": "Java",
     "description": "Java标签：Condition",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "condition"
   },
   {
     "id": "java-tag-215",
@@ -1717,7 +1931,8 @@
     "category": "Java",
     "description": "Java标签：ThreadLocal",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "threadlocal"
   },
   {
     "id": "java-tag-216",
@@ -1725,7 +1940,8 @@
     "category": "Java",
     "description": "Java标签：线程状态",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线程状态"
   },
   {
     "id": "java-tag-217",
@@ -1733,7 +1949,8 @@
     "category": "Java",
     "description": "Java标签：NEW",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "new"
   },
   {
     "id": "java-tag-218",
@@ -1741,7 +1958,8 @@
     "category": "Java",
     "description": "Java标签：RUNNABLE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "runnable"
   },
   {
     "id": "java-tag-219",
@@ -1749,7 +1967,8 @@
     "category": "Java",
     "description": "Java标签：BLOCKED",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "blocked"
   },
   {
     "id": "java-tag-220",
@@ -1757,7 +1976,8 @@
     "category": "Java",
     "description": "Java标签：WAITING",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "waiting"
   },
   {
     "id": "java-tag-221",
@@ -1765,7 +1985,8 @@
     "category": "Java",
     "description": "Java标签：TIMED_WAITING",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "timed_waiting"
   },
   {
     "id": "java-tag-222",
@@ -1773,7 +1994,8 @@
     "category": "Java",
     "description": "Java标签：TERMINATED",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "terminated"
   },
   {
     "id": "java-tag-223",
@@ -1781,7 +2003,8 @@
     "category": "Java",
     "description": "Java标签：守护线程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "守护线程"
   },
   {
     "id": "java-tag-224",
@@ -1789,7 +2012,8 @@
     "category": "Java",
     "description": "Java标签：用户线程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "用户线程"
   },
   {
     "id": "java-tag-225",
@@ -1797,7 +2021,8 @@
     "category": "Java",
     "description": "Java标签：线程组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线程组"
   },
   {
     "id": "java-tag-226",
@@ -1805,7 +2030,8 @@
     "category": "Java",
     "description": "Java标签：优先级",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "优先级"
   },
   {
     "id": "java-tag-227",
@@ -1813,7 +2039,8 @@
     "category": "Java",
     "description": "Java标签：死锁",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "死锁"
   },
   {
     "id": "java-tag-228",
@@ -1821,7 +2048,8 @@
     "category": "Java",
     "description": "Java标签：活锁",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "活锁"
   },
   {
     "id": "java-tag-229",
@@ -1829,7 +2057,8 @@
     "category": "Java",
     "description": "Java标签：饥饿",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "饥饿"
   },
   {
     "id": "java-tag-230",
@@ -1837,7 +2066,8 @@
     "category": "Java",
     "description": "Java标签：LockSupport",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "locksupport"
   },
   {
     "id": "java-tag-231",
@@ -1845,7 +2075,8 @@
     "category": "Java",
     "description": "Java标签：并发工具",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "并发工具"
   },
   {
     "id": "java-tag-232",
@@ -1853,7 +2084,8 @@
     "category": "Java",
     "description": "Java标签：CountDownLatch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "countdownlatch"
   },
   {
     "id": "java-tag-233",
@@ -1861,7 +2093,8 @@
     "category": "Java",
     "description": "Java标签：CyclicBarrier",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cyclicbarrier"
   },
   {
     "id": "java-tag-234",
@@ -1869,7 +2102,8 @@
     "category": "Java",
     "description": "Java标签：Semaphore",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "semaphore"
   },
   {
     "id": "java-tag-235",
@@ -1877,7 +2111,8 @@
     "category": "Java",
     "description": "Java标签：Exchanger",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "exchanger"
   },
   {
     "id": "java-tag-236",
@@ -1885,7 +2120,8 @@
     "category": "Java",
     "description": "Java标签：Phaser",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "phaser"
   },
   {
     "id": "java-tag-237",
@@ -1893,7 +2129,8 @@
     "category": "Java",
     "description": "Java标签：CompletableFuture",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "completablefuture"
   },
   {
     "id": "java-tag-238",
@@ -1901,7 +2138,8 @@
     "category": "Java",
     "description": "Java标签：并行流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "并行流"
   },
   {
     "id": "java-tag-239",
@@ -1909,7 +2147,8 @@
     "category": "Java",
     "description": "Java标签：ForkJoin",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "forkjoin"
   },
   {
     "id": "java-tag-240",
@@ -1917,7 +2156,8 @@
     "category": "Java",
     "description": "Java标签：ForkJoinPool",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "forkjoinpool"
   },
   {
     "id": "java-tag-241",
@@ -1925,7 +2165,8 @@
     "category": "Java",
     "description": "Java标签：RecursiveAction",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "recursiveaction"
   },
   {
     "id": "java-tag-242",
@@ -1933,7 +2174,8 @@
     "category": "Java",
     "description": "Java标签：RecursiveTask",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "recursivetask"
   },
   {
     "id": "java-tag-243",
@@ -1941,7 +2183,8 @@
     "category": "Java",
     "description": "Java标签：日期时间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "日期时间"
   },
   {
     "id": "java-tag-244",
@@ -1949,7 +2192,8 @@
     "category": "Java",
     "description": "Java标签：Date",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "date"
   },
   {
     "id": "java-tag-245",
@@ -1957,7 +2201,8 @@
     "category": "Java",
     "description": "Java标签：Calendar",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "calendar"
   },
   {
     "id": "java-tag-246",
@@ -1965,7 +2210,8 @@
     "category": "Java",
     "description": "Java标签：SimpleDateFormat",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "simpledateformat"
   },
   {
     "id": "java-tag-247",
@@ -1973,7 +2219,8 @@
     "category": "Java",
     "description": "Java标签：LocalDate",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "localdate"
   },
   {
     "id": "java-tag-248",
@@ -1981,7 +2228,8 @@
     "category": "Java",
     "description": "Java标签：LocalTime",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "localtime"
   },
   {
     "id": "java-tag-249",
@@ -1989,7 +2237,8 @@
     "category": "Java",
     "description": "Java标签：LocalDateTime",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "localdatetime"
   },
   {
     "id": "java-tag-250",
@@ -1997,7 +2246,8 @@
     "category": "Java",
     "description": "Java标签：Instant",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "instant"
   },
   {
     "id": "java-tag-251",
@@ -2005,7 +2255,8 @@
     "category": "Java",
     "description": "Java标签：Duration",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "duration"
   },
   {
     "id": "java-tag-252",
@@ -2013,7 +2264,8 @@
     "category": "Java",
     "description": "Java标签：Period",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "period"
   },
   {
     "id": "java-tag-253",
@@ -2021,7 +2273,8 @@
     "category": "Java",
     "description": "Java标签：DateTimeFormatter",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "datetimeformatter"
   },
   {
     "id": "java-tag-254",
@@ -2029,7 +2282,8 @@
     "category": "Java",
     "description": "Java标签：ZoneId",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "zoneid"
   },
   {
     "id": "java-tag-255",
@@ -2037,7 +2291,8 @@
     "category": "Java",
     "description": "Java标签：ZonedDateTime",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "zoneddatetime"
   },
   {
     "id": "java-tag-256",
@@ -2045,7 +2300,8 @@
     "category": "Java",
     "description": "Java标签：正则表达式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正则表达式"
   },
   {
     "id": "java-tag-257",
@@ -2053,7 +2309,8 @@
     "category": "Java",
     "description": "Java标签：Pattern",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pattern"
   },
   {
     "id": "java-tag-258",
@@ -2061,7 +2318,8 @@
     "category": "Java",
     "description": "Java标签：Matcher",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "matcher"
   },
   {
     "id": "java-tag-259",
@@ -2069,7 +2327,8 @@
     "category": "Java",
     "description": "Java标签：枚举",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "枚举"
   },
   {
     "id": "java-tag-260",
@@ -2077,7 +2336,8 @@
     "category": "Java",
     "description": "Java标签：enum",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "enum"
   },
   {
     "id": "java-tag-261",
@@ -2085,7 +2345,8 @@
     "category": "Java",
     "description": "Java标签：注解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "注解"
   },
   {
     "id": "java-tag-262",
@@ -2093,7 +2354,8 @@
     "category": "Java",
     "description": "Java标签：Annotation",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "annotation"
   },
   {
     "id": "java-tag-263",
@@ -2101,7 +2363,8 @@
     "category": "Java",
     "description": "Java标签：@Override",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@override"
   },
   {
     "id": "java-tag-264",
@@ -2109,7 +2372,8 @@
     "category": "Java",
     "description": "Java标签：@Deprecated",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@deprecated"
   },
   {
     "id": "java-tag-265",
@@ -2117,7 +2381,8 @@
     "category": "Java",
     "description": "Java标签：@SuppressWarnings",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@suppresswarnings"
   },
   {
     "id": "java-tag-266",
@@ -2125,7 +2390,8 @@
     "category": "Java",
     "description": "Java标签：@FunctionalInterface",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@functionalinterface"
   },
   {
     "id": "java-tag-267",
@@ -2133,7 +2399,8 @@
     "category": "Java",
     "description": "Java标签：元注解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "元注解"
   },
   {
     "id": "java-tag-268",
@@ -2141,7 +2408,8 @@
     "category": "Java",
     "description": "Java标签：@Retention",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@retention"
   },
   {
     "id": "java-tag-269",
@@ -2149,7 +2417,8 @@
     "category": "Java",
     "description": "Java标签：@Target",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@target"
   },
   {
     "id": "java-tag-270",
@@ -2157,7 +2426,8 @@
     "category": "Java",
     "description": "Java标签：@Documented",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@documented"
   },
   {
     "id": "java-tag-271",
@@ -2165,7 +2435,8 @@
     "category": "Java",
     "description": "Java标签：@Inherited",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@inherited"
   },
   {
     "id": "java-tag-272",
@@ -2173,7 +2444,8 @@
     "category": "Java",
     "description": "Java标签：@Repeatable",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@repeatable"
   },
   {
     "id": "java-tag-273",
@@ -2181,7 +2453,8 @@
     "category": "Java",
     "description": "Java标签：反射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反射"
   },
   {
     "id": "java-tag-274",
@@ -2189,7 +2462,8 @@
     "category": "Java",
     "description": "Java标签：Class",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "class"
   },
   {
     "id": "java-tag-275",
@@ -2197,7 +2471,8 @@
     "category": "Java",
     "description": "Java标签：Field",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "field"
   },
   {
     "id": "java-tag-276",
@@ -2205,7 +2480,8 @@
     "category": "Java",
     "description": "Java标签：Method",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "method"
   },
   {
     "id": "java-tag-277",
@@ -2213,7 +2489,8 @@
     "category": "Java",
     "description": "Java标签：Constructor",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "constructor"
   },
   {
     "id": "java-tag-278",
@@ -2221,7 +2498,8 @@
     "category": "Java",
     "description": "Java标签：动态代理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "动态代理"
   },
   {
     "id": "java-tag-279",
@@ -2229,7 +2507,8 @@
     "category": "Java",
     "description": "Java标签：JDK动态代理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jdk动态代理"
   },
   {
     "id": "java-tag-280",
@@ -2237,7 +2516,8 @@
     "category": "Java",
     "description": "Java标签：cglib",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cglib"
   },
   {
     "id": "java-tag-281",
@@ -2245,7 +2525,8 @@
     "category": "Java",
     "description": "Java标签：Lambda表达式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lambda表达式"
   },
   {
     "id": "java-tag-282",
@@ -2253,7 +2534,8 @@
     "category": "Java",
     "description": "Java标签：函数式接口",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "函数式接口"
   },
   {
     "id": "java-tag-283",
@@ -2261,7 +2543,8 @@
     "category": "Java",
     "description": "Java标签：Predicate",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "predicate"
   },
   {
     "id": "java-tag-284",
@@ -2269,7 +2552,8 @@
     "category": "Java",
     "description": "Java标签：Consumer",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "consumer"
   },
   {
     "id": "java-tag-285",
@@ -2277,7 +2561,8 @@
     "category": "Java",
     "description": "Java标签：Function",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "function"
   },
   {
     "id": "java-tag-286",
@@ -2285,7 +2570,8 @@
     "category": "Java",
     "description": "Java标签：Supplier",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "supplier"
   },
   {
     "id": "java-tag-287",
@@ -2293,7 +2579,8 @@
     "category": "Java",
     "description": "Java标签：Stream流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "stream流"
   },
   {
     "id": "java-tag-288",
@@ -2301,7 +2588,8 @@
     "category": "Java",
     "description": "Java标签：map",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "map"
   },
   {
     "id": "java-tag-289",
@@ -2309,7 +2597,8 @@
     "category": "Java",
     "description": "Java标签：filter",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "filter"
   },
   {
     "id": "java-tag-290",
@@ -2317,7 +2606,8 @@
     "category": "Java",
     "description": "Java标签：reduce",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "reduce"
   },
   {
     "id": "java-tag-291",
@@ -2325,7 +2615,8 @@
     "category": "Java",
     "description": "Java标签：collect",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "collect"
   },
   {
     "id": "java-tag-292",
@@ -2333,7 +2624,8 @@
     "category": "Java",
     "description": "Java标签：sorted",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sorted"
   },
   {
     "id": "java-tag-293",
@@ -2341,7 +2633,8 @@
     "category": "Java",
     "description": "Java标签：distinct",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "distinct"
   },
   {
     "id": "java-tag-294",
@@ -2349,7 +2642,8 @@
     "category": "Java",
     "description": "Java标签：limit",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "limit"
   },
   {
     "id": "java-tag-295",
@@ -2357,7 +2651,8 @@
     "category": "Java",
     "description": "Java标签：skip",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "skip"
   },
   {
     "id": "java-tag-296",
@@ -2365,7 +2660,8 @@
     "category": "Java",
     "description": "Java标签：anyMatch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "anymatch"
   },
   {
     "id": "java-tag-297",
@@ -2373,7 +2669,8 @@
     "category": "Java",
     "description": "Java标签：allMatch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "allmatch"
   },
   {
     "id": "java-tag-298",
@@ -2381,7 +2678,8 @@
     "category": "Java",
     "description": "Java标签：Optional",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "optional"
   },
   {
     "id": "java-tag-299",
@@ -2389,7 +2687,8 @@
     "category": "Java",
     "description": "Java标签：Maven",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "maven"
   },
   {
     "id": "java-tag-300",
@@ -2397,7 +2696,8 @@
     "category": "Java",
     "description": "Java标签：pom.xml",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pom.xml"
   },
   {
     "id": "java-tag-301",
@@ -2405,7 +2705,8 @@
     "category": "Java",
     "description": "Java标签：依赖",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "依赖"
   },
   {
     "id": "java-tag-302",
@@ -2413,7 +2714,8 @@
     "category": "Java",
     "description": "Java标签：坐标",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "坐标"
   },
   {
     "id": "java-tag-303",
@@ -2421,7 +2723,8 @@
     "category": "Java",
     "description": "Java标签：groupId",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "groupid"
   },
   {
     "id": "java-tag-304",
@@ -2429,7 +2732,8 @@
     "category": "Java",
     "description": "Java标签：artifactId",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "artifactid"
   },
   {
     "id": "java-tag-305",
@@ -2437,7 +2741,8 @@
     "category": "Java",
     "description": "Java标签：version",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "version"
   },
   {
     "id": "java-tag-306",
@@ -2445,7 +2750,8 @@
     "category": "Java",
     "description": "Java标签：仓库",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "仓库"
   },
   {
     "id": "java-tag-307",
@@ -2453,7 +2759,8 @@
     "category": "Java",
     "description": "Java标签：本地仓库",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "本地仓库"
   },
   {
     "id": "java-tag-308",
@@ -2461,7 +2768,8 @@
     "category": "Java",
     "description": "Java标签：中央仓库",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "中央仓库"
   },
   {
     "id": "java-tag-309",
@@ -2469,7 +2777,8 @@
     "category": "Java",
     "description": "Java标签：私服",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "私服"
   },
   {
     "id": "java-tag-310",
@@ -2477,7 +2786,8 @@
     "category": "Java",
     "description": "Java标签：生命周期",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "生命周期"
   },
   {
     "id": "java-tag-311",
@@ -2485,7 +2795,8 @@
     "category": "Java",
     "description": "Java标签：clean",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "clean"
   },
   {
     "id": "java-tag-312",
@@ -2493,7 +2804,8 @@
     "category": "Java",
     "description": "Java标签：compile",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "compile"
   },
   {
     "id": "java-tag-313",
@@ -2501,7 +2813,8 @@
     "category": "Java",
     "description": "Java标签：test",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "test"
   },
   {
     "id": "java-tag-314",
@@ -2509,7 +2822,8 @@
     "category": "Java",
     "description": "Java标签：package",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "package"
   },
   {
     "id": "java-tag-315",
@@ -2517,7 +2831,8 @@
     "category": "Java",
     "description": "Java标签：install",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "install"
   },
   {
     "id": "java-tag-316",
@@ -2525,7 +2840,8 @@
     "category": "Java",
     "description": "Java标签：deploy",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "deploy"
   },
   {
     "id": "java-tag-317",
@@ -2533,7 +2849,8 @@
     "category": "Java",
     "description": "Java标签：插件",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "插件"
   },
   {
     "id": "java-tag-318",
@@ -2541,7 +2858,8 @@
     "category": "Java",
     "description": "Java标签：单元测试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "单元测试"
   },
   {
     "id": "java-tag-319",
@@ -2549,7 +2867,8 @@
     "category": "Java",
     "description": "Java标签：JUnit",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "junit"
   },
   {
     "id": "java-tag-320",
@@ -2557,7 +2876,8 @@
     "category": "Java",
     "description": "Java标签：TestNG",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "testng"
   },
   {
     "id": "java-tag-321",
@@ -2565,7 +2885,8 @@
     "category": "Java",
     "description": "Java标签：@Test",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@test"
   },
   {
     "id": "java-tag-322",
@@ -2573,7 +2894,8 @@
     "category": "Java",
     "description": "Java标签：@Before",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@before"
   },
   {
     "id": "java-tag-323",
@@ -2581,7 +2903,8 @@
     "category": "Java",
     "description": "Java标签：@After",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@after"
   },
   {
     "id": "java-tag-324",
@@ -2589,7 +2912,8 @@
     "category": "Java",
     "description": "Java标签：@BeforeClass",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@beforeclass"
   },
   {
     "id": "java-tag-325",
@@ -2597,7 +2921,8 @@
     "category": "Java",
     "description": "Java标签：@AfterClass",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@afterclass"
   },
   {
     "id": "java-tag-326",
@@ -2605,7 +2930,8 @@
     "category": "Java",
     "description": "Java标签：assertEquals",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "assertequals"
   },
   {
     "id": "java-tag-327",
@@ -2613,7 +2939,8 @@
     "category": "Java",
     "description": "Java标签：assertTrue",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "asserttrue"
   },
   {
     "id": "java-tag-328",
@@ -2621,7 +2948,8 @@
     "category": "Java",
     "description": "Java标签：assertFalse",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "assertfalse"
   },
   {
     "id": "java-tag-329",
@@ -2629,7 +2957,8 @@
     "category": "Java",
     "description": "Java标签：Mockito",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mockito"
   },
   {
     "id": "java-tag-330",
@@ -2637,7 +2966,8 @@
     "category": "Java",
     "description": "Java标签：Mock",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mock"
   },
   {
     "id": "java-tag-331",
@@ -2645,7 +2975,8 @@
     "category": "Java",
     "description": "Java标签：桩",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "桩"
   },
   {
     "id": "java-tag-332",
@@ -2653,7 +2984,8 @@
     "category": "Java",
     "description": "Java标签：验证",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "验证"
   },
   {
     "id": "java-tag-333",
@@ -2661,7 +2993,8 @@
     "category": "Java",
     "description": "Java标签：覆盖率",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "覆盖率"
   },
   {
     "id": "java-tag-334",
@@ -2669,7 +3002,8 @@
     "category": "Java",
     "description": "Java标签：JaCoCo",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jacoco"
   },
   {
     "id": "java-tag-335",
@@ -2677,7 +3011,8 @@
     "category": "Java",
     "description": "Java标签：JDBC",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jdbc"
   },
   {
     "id": "java-tag-336",
@@ -2685,7 +3020,8 @@
     "category": "Java",
     "description": "Java标签：DriverManager",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "drivermanager"
   },
   {
     "id": "java-tag-337",
@@ -2693,7 +3029,8 @@
     "category": "Java",
     "description": "Java标签：Connection",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "connection"
   },
   {
     "id": "java-tag-338",
@@ -2701,7 +3038,8 @@
     "category": "Java",
     "description": "Java标签：Statement",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "statement"
   },
   {
     "id": "java-tag-339",
@@ -2709,7 +3047,8 @@
     "category": "Java",
     "description": "Java标签：PreparedStatement",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "preparedstatement"
   },
   {
     "id": "java-tag-340",
@@ -2717,7 +3056,8 @@
     "category": "Java",
     "description": "Java标签：CallableStatement",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "callablestatement"
   },
   {
     "id": "java-tag-341",
@@ -2725,7 +3065,8 @@
     "category": "Java",
     "description": "Java标签：ResultSet",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "resultset"
   },
   {
     "id": "java-tag-342",
@@ -2733,7 +3074,8 @@
     "category": "Java",
     "description": "Java标签：事务管理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "事务管理"
   },
   {
     "id": "java-tag-343",
@@ -2741,7 +3083,8 @@
     "category": "Java",
     "description": "Java标签：批处理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "批处理"
   },
   {
     "id": "java-tag-344",
@@ -2749,7 +3092,8 @@
     "category": "Java",
     "description": "Java标签：连接池",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "连接池"
   },
   {
     "id": "java-tag-345",
@@ -2757,7 +3101,8 @@
     "category": "Java",
     "description": "Java标签：HikariCP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "hikaricp"
   },
   {
     "id": "java-tag-346",
@@ -2765,7 +3110,8 @@
     "category": "Java",
     "description": "Java标签：DBCP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "dbcp"
   },
   {
     "id": "java-tag-347",
@@ -2773,7 +3119,8 @@
     "category": "Java",
     "description": "Java标签：C3P0",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "c3p0"
   },
   {
     "id": "java-tag-348",
@@ -2781,7 +3128,8 @@
     "category": "Java",
     "description": "Java标签：Tomcat",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "tomcat"
   },
   {
     "id": "java-tag-349",
@@ -2789,7 +3137,8 @@
     "category": "Java",
     "description": "Java标签：Jetty",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jetty"
   },
   {
     "id": "java-tag-350",
@@ -2797,7 +3146,8 @@
     "category": "Java",
     "description": "Java标签：Servlet",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "servlet"
   },
   {
     "id": "java-tag-351",
@@ -2805,7 +3155,8 @@
     "category": "Java",
     "description": "Java标签：JSP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jsp"
   },
   {
     "id": "java-tag-352",
@@ -2813,7 +3164,8 @@
     "category": "Java",
     "description": "Java标签：Spring",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "spring"
   },
   {
     "id": "java-tag-353",
@@ -2821,7 +3173,8 @@
     "category": "Java",
     "description": "Java标签：SpringBoot",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "springboot"
   },
   {
     "id": "java-tag-354",
@@ -2829,7 +3182,8 @@
     "category": "Java",
     "description": "Java标签：MyBatis",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mybatis"
   },
   {
     "id": "java-tag-355",
@@ -2837,7 +3191,8 @@
     "category": "Java",
     "description": "Java标签：后端开发",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "后端开发"
   },
   {
     "id": "java-tag-356",
@@ -2845,7 +3200,8 @@
     "category": "Java",
     "description": "Java标签：RESTful",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "restful"
   },
   {
     "id": "java-tag-357",
@@ -2853,7 +3209,8 @@
     "category": "Java",
     "description": "Java标签：API",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "api"
   },
   {
     "id": "java-tag-358",
@@ -2861,7 +3218,8 @@
     "category": "Java",
     "description": "Java标签：JSON",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "json"
   },
   {
     "id": "java-tag-359",
@@ -2869,7 +3227,8 @@
     "category": "Java",
     "description": "Java标签：Jackson",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jackson"
   },
   {
     "id": "java-tag-360",
@@ -2877,7 +3236,8 @@
     "category": "Java",
     "description": "Java标签：Gson",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "gson"
   },
   {
     "id": "java-tag-361",
@@ -2885,7 +3245,8 @@
     "category": "Java",
     "description": "Java标签：Lombok",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lombok"
   },
   {
     "id": "java-tag-362",
@@ -2893,7 +3254,8 @@
     "category": "Java",
     "description": "Java标签：@Data",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@data"
   },
   {
     "id": "java-tag-363",
@@ -2901,7 +3263,8 @@
     "category": "Java",
     "description": "Java标签：@Getter",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@getter"
   },
   {
     "id": "java-tag-364",
@@ -2909,7 +3272,8 @@
     "category": "Java",
     "description": "Java标签：@Setter",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@setter"
   },
   {
     "id": "java-tag-365",
@@ -2917,7 +3281,8 @@
     "category": "Java",
     "description": "Java标签：@Slf4j",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@slf4j"
   },
   {
     "id": "java-tag-366",
@@ -2925,7 +3290,8 @@
     "category": "Java",
     "description": "Java标签：项目结构",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "项目结构"
   },
   {
     "id": "java-tag-367",
@@ -2933,7 +3299,8 @@
     "category": "Java",
     "description": "Java标签：MVC",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mvc"
   },
   {
     "id": "java-tag-368",
@@ -2941,7 +3308,8 @@
     "category": "Java",
     "description": "Java标签：controller",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "controller"
   },
   {
     "id": "java-tag-369",
@@ -2949,7 +3317,8 @@
     "category": "Java",
     "description": "Java标签：service",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "service"
   },
   {
     "id": "java-tag-370",
@@ -2957,7 +3326,8 @@
     "category": "Java",
     "description": "Java标签：dao",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "dao"
   },
   {
     "id": "java-tag-371",
@@ -2965,7 +3335,8 @@
     "category": "Java",
     "description": "Java标签：mapper",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mapper"
   },
   {
     "id": "java-tag-372",
@@ -2973,7 +3344,8 @@
     "category": "Java",
     "description": "Java标签：entity",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "entity"
   },
   {
     "id": "java-tag-373",
@@ -2981,7 +3353,8 @@
     "category": "Java",
     "description": "Java标签：dto",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "dto"
   },
   {
     "id": "java-tag-374",
@@ -2989,7 +3362,8 @@
     "category": "Java",
     "description": "Java标签：config",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "config"
   },
   {
     "id": "java-tag-375",
@@ -2997,7 +3371,8 @@
     "category": "Java",
     "description": "Java标签：util",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "util"
   },
   {
     "id": "java-tag-376",
@@ -3005,7 +3380,8 @@
     "category": "Java",
     "description": "Java标签：Git",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git"
   },
   {
     "id": "java-tag-377",
@@ -3013,7 +3389,8 @@
     "category": "Java",
     "description": "Java标签：Maven聚合",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "maven聚合"
   },
   {
     "id": "java-tag-378",
@@ -3021,7 +3398,8 @@
     "category": "Java",
     "description": "Java标签：多模块",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多模块"
   },
   {
     "id": "java-tag-379",
@@ -3029,7 +3407,8 @@
     "category": "Java",
     "description": "Java标签：继承",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "继承"
   },
   {
     "id": "java-tag-380",
@@ -3037,6 +3416,7 @@
     "category": "Java",
     "description": "Java标签：依赖管理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "依赖管理"
   }
 ]
